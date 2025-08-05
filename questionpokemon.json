@@ -1,5 +1,13 @@
 [
-{
+    {
+        "flag": "pokemon/Galapaflos.png",
+        "correctAnswer": "Galapaflos"
+    },
+    {
+        "flag": "pokemon/Gallopa.png",
+        "correctAnswer": "Gallopa"
+    },
+    {
         "flag": "pokemon/Ganovil.png",
         "correctAnswer": "Ganovil"
     },
@@ -14,5 +22,4077 @@
     {
         "flag": "pokemon/Gastrodon.png",
         "correctAnswer": "Gastrodon"
+    },
+    {
+        "flag": "pokemon/Gaunux.png",
+        "correctAnswer": "Gaunux"
+    },
+    {
+        "flag": "pokemon/Geckarbor.png",
+        "correctAnswer": "Geckarbor"
+    },
+    {
+        "flag": "pokemon/Gehweiher.png",
+        "correctAnswer": "Gehweiher"
+    },
+    {
+        "flag": "pokemon/Gelatini.png",
+        "correctAnswer": "Gelatini"
+    },
+    {
+        "flag": "pokemon/Gelatroppo.png",
+        "correctAnswer": "Gelatroppo"
+    },
+    {
+        "flag": "pokemon/Gelatwino.png",
+        "correctAnswer": "Gelatwino"
+    },
+    {
+        "flag": "pokemon/Genesect.png",
+        "correctAnswer": "Genesect"
+    },
+    {
+        "flag": "pokemon/Gengar.png",
+        "correctAnswer": "Gengar"
+    },
+    {
+        "flag": "pokemon/Georok.png",
+        "correctAnswer": "Georok"
+    },
+    {
+        "flag": "pokemon/Geosali.png",
+        "correctAnswer": "Geosali"
+    },
+    {
+        "flag": "pokemon/Geowaz.png",
+        "correctAnswer": "Geowaz"
+    },
+    {
+        "flag": "pokemon/Geradaks.png",
+        "correctAnswer": "Geradaks"
+    },
+    {
+        "flag": "pokemon/Geronimatz.png",
+        "correctAnswer": "Geronimatz"
+    },
+    {
+        "flag": "pokemon/Gewaldro.png",
+        "correctAnswer": "Gewaldro"
+    },
+    {
+        "flag": "pokemon/Gierspenst.png",
+        "correctAnswer": "Gierspenst"
+    },
+    {
+        "flag": "pokemon/Giflor.png",
+        "correctAnswer": "Giflor"
+    },
+    {
+        "flag": "pokemon/Girafarig.png",
+        "correctAnswer": "Girafarig"
+    },
+    {
+        "flag": "pokemon/Giratina.png",
+        "correctAnswer": "Giratina"
+    },
+    {
+        "flag": "pokemon/Gladiantri.png",
+        "correctAnswer": "Gladiantri"
+    },
+    {
+        "flag": "pokemon/Gladimperio.png",
+        "correctAnswer": "Gladimperio"
+    },
+    {
+        "flag": "pokemon/Glaziola.png",
+        "correctAnswer": "Glaziola"
+    },
+    {
+        "flag": "pokemon/Glibunkel.png",
+        "correctAnswer": "Glibunkel"
+    },
+    {
+        "flag": "pokemon/Glumanda.png",
+        "correctAnswer": "Glumanda"
+    },
+    {
+        "flag": "pokemon/Glurak.png",
+        "correctAnswer": "Glurak"
+    },
+    {
+        "flag": "pokemon/Glutexo.png",
+        "correctAnswer": "Glutexo"
+    },
+    {
+        "flag": "pokemon/Golbat.png",
+        "correctAnswer": "Golbat"
+    },
+    {
+        "flag": "pokemon/Golbit.png",
+        "correctAnswer": "Golbit"
+    },
+    {
+        "flag": "pokemon/Goldini.png",
+        "correctAnswer": "Goldini"
+    },
+    {
+        "flag": "pokemon/Golgantes.png",
+        "correctAnswer": "Golgantes"
+    },
+    {
+        "flag": "pokemon/Golking.png",
+        "correctAnswer": "Golking"
+    },
+    {
+        "flag": "pokemon/Gorgasonn.png",
+        "correctAnswer": "Gorgasonn"
+    },
+    {
+        "flag": "pokemon/Gortrom.png",
+        "correctAnswer": "Gortrom"
+    },
+    {
+        "flag": "pokemon/Gramokles.png",
+        "correctAnswer": "Gramokles"
+    },
+    {
+        "flag": "pokemon/Granbull.png",
+        "correctAnswer": "Granbull"
+    },
+    {
+        "flag": "pokemon/Grandiras.png",
+        "correctAnswer": "Grandiras"
+    },
+    {
+        "flag": "pokemon/Granforgita.png",
+        "correctAnswer": "Granforgita"
+    },
+    {
+        "flag": "pokemon/Grebbit.png",
+        "correctAnswer": "Grebbit"
+    },
+    {
+        "flag": "pokemon/Griffel.png",
+        "correctAnswer": "Griffel"
+    },
+    {
+        "flag": "pokemon/Grillchita.png",
+        "correctAnswer": "Grillchita"
+    },
+    {
+        "flag": "pokemon/Grillmak.png",
+        "correctAnswer": "Grillmak"
+    },
+    {
+        "flag": "pokemon/Groink.png",
+        "correctAnswer": "Groink"
+    },
+    {
+        "flag": "pokemon/Grolldra.png",
+        "correctAnswer": "Grolldra"
+    },
+    {
+        "flag": "pokemon/Groudon.png",
+        "correctAnswer": "Groudon"
+    },
+    {
+        "flag": "pokemon/Gruff.png",
+        "correctAnswer": "Gruff"
+    },
+    {
+        "flag": "pokemon/Grypheldis.png",
+        "correctAnswer": "Grypheldis"
+    },
+    {
+        "flag": "pokemon/Guardevoir.png",
+        "correctAnswer": "Guardevoir"
+    },
+    {
+        "flag": "pokemon/Gufa.png",
+        "correctAnswer": "Gufa"
+    },
+    {
+        "flag": "pokemon/Habitak.png",
+        "correctAnswer": "Habitak"
+    },
+    {
+        "flag": "pokemon/Halupenjo.png",
+        "correctAnswer": "Halupenjo"
+    },
+    {
+        "flag": "pokemon/Hariyama.png",
+        "correctAnswer": "Hariyama"
+    },
+    {
+        "flag": "pokemon/Haspiror.png",
+        "correctAnswer": "Haspiror"
+    },
+    {
+        "flag": "pokemon/Heatran.png",
+        "correctAnswer": "Heatran"
+    },
+    {
+        "flag": "pokemon/Heerashai.png",
+        "correctAnswer": "Heerashai"
+    },
+    {
+        "flag": "pokemon/Hefel.png",
+        "correctAnswer": "Hefel"
+    },
+    {
+        "flag": "pokemon/Heiteira.png",
+        "correctAnswer": "Heiteira"
+    },
+    {
+        "flag": "pokemon/Hippopotas.png",
+        "correctAnswer": "Hippopotas"
+    },
+    {
+        "flag": "pokemon/Hippoterus.png",
+        "correctAnswer": "Hippoterus"
+    },
+    {
+        "flag": "pokemon/Ho-Oh.png",
+        "correctAnswer": "Ho-Oh"
+    },
+    {
+        "flag": "pokemon/Hokumil.png",
+        "correctAnswer": "Hokumil"
+    },
+    {
+        "flag": "pokemon/Honweisel.png",
+        "correctAnswer": "Honweisel"
+    },
+    {
+        "flag": "pokemon/Hoopa.png",
+        "correctAnswer": "Hoopa"
+    },
+    {
+        "flag": "pokemon/Hoothoot.png",
+        "correctAnswer": "Hoothoot"
+    },
+    {
+        "flag": "pokemon/Hopplo.png",
+        "correctAnswer": "Hopplo"
+    },
+    {
+        "flag": "pokemon/Hoppspross.png",
+        "correctAnswer": "Hoppspross"
+    },
+    {
+        "flag": "pokemon/Hornliu.png",
+        "correctAnswer": "Hornliu"
+    },
+    {
+        "flag": "pokemon/Horrerba.png",
+        "correctAnswer": "Horrerba"
+    },
+    {
+        "flag": "pokemon/Hubelupf.png",
+        "correctAnswer": "Hubelupf"
+    },
+    {
+        "flag": "pokemon/Humanolith.png",
+        "correctAnswer": "Humanolith"
+    },
+    {
+        "flag": "pokemon/Hundemon.png",
+        "correctAnswer": "Hundemon"
+    },
+    {
+        "flag": "pokemon/Hunduster.png",
+        "correctAnswer": "Hunduster"
+    },
+    {
+        "flag": "pokemon/Hutsassa.png",
+        "correctAnswer": "Hutsassa"
+    },
+    {
+        "flag": "pokemon/Hydragil.png",
+        "correctAnswer": "Hydragil"
+    },
+    {
+        "flag": "pokemon/Hydrapfel.png",
+        "correctAnswer": "Hydrapfel"
+    },
+    {
+        "flag": "pokemon/Hydropi.png",
+        "correctAnswer": "Hydropi"
+    },
+    {
+        "flag": "pokemon/Hypno.png",
+        "correctAnswer": "Hypno"
+    },
+    {
+        "flag": "pokemon/Hypnomorba.png",
+        "correctAnswer": "Hypnomorba"
+    },
+    {
+        "flag": "pokemon/Ibitak.png",
+        "correctAnswer": "Ibitak"
+    },
+    {
+        "flag": "pokemon/Icognito.png",
+        "correctAnswer": "Icognito"
+    },
+    {
+        "flag": "pokemon/Igamaro.png",
+        "correctAnswer": "Igamaro"
+    },
+    {
+        "flag": "pokemon/Igastarnish.png",
+        "correctAnswer": "Igastarnish"
+    },
+    {
+        "flag": "pokemon/Igelavar.png",
+        "correctAnswer": "Igelavar"
+    },
+    {
+        "flag": "pokemon/Ignivor.png",
+        "correctAnswer": "Ignivor"
+    },
+    {
+        "flag": "pokemon/Iksbat.png",
+        "correctAnswer": "Iksbat"
+    },
+    {
+        "flag": "pokemon/Illumise.png",
+        "correctAnswer": "Illumise"
+    },
+    {
+        "flag": "pokemon/Imantis.png",
+        "correctAnswer": "Imantis"
+    },
+    {
+        "flag": "pokemon/Impergator.png",
+        "correctAnswer": "Impergator"
+    },
+    {
+        "flag": "pokemon/Impoleon.png",
+        "correctAnswer": "Impoleon"
+    },
+    {
+        "flag": "pokemon/Infamomo.png",
+        "correctAnswer": "Infamomo"
+    },
+    {
+        "flag": "pokemon/Infernopod.png",
+        "correctAnswer": "Infernopod"
+    },
+    {
+        "flag": "pokemon/Intelleon.png",
+        "correctAnswer": "Intelleon"
+    },
+    {
+        "flag": "pokemon/Irokex.png",
+        "correctAnswer": "Irokex"
+    },
+    {
+        "flag": "pokemon/Irrbis.png",
+        "correctAnswer": "Irrbis"
+    },
+    {
+        "flag": "pokemon/Iscalar.png",
+        "correctAnswer": "Iscalar"
+    },
+    {
+        "flag": "pokemon/Isso.png",
+        "correctAnswer": "Isso"
+    },
+    {
+        "flag": "pokemon/Jirachi.png",
+        "correctAnswer": "Jirachi"
+    },
+    {
+        "flag": "pokemon/Jiutesto.png",
+        "correctAnswer": "Jiutesto"
+    },
+    {
+        "flag": "pokemon/Jugong.png",
+        "correctAnswer": "Jugong"
+    },
+    {
+        "flag": "pokemon/Jungglut.png",
+        "correctAnswer": "Jungglut"
+    },
+    {
+        "flag": "pokemon/Jurob.png",
+        "correctAnswer": "Jurob"
+    },
+    {
+        "flag": "pokemon/Kabuto.png",
+        "correctAnswer": "Kabuto"
+    },
+    {
+        "flag": "pokemon/Kabutops.png",
+        "correctAnswer": "Kabutops"
+    },
+    {
+        "flag": "pokemon/Kadabra.png",
+        "correctAnswer": "Kadabra"
+    },
+    {
+        "flag": "pokemon/Kaguron.png",
+        "correctAnswer": "Kaguron"
+    },
+    {
+        "flag": "pokemon/Kamalm.png",
+        "correctAnswer": "Kamalm"
+    },
+    {
+        "flag": "pokemon/Kamehaps.png",
+        "correctAnswer": "Kamehaps"
+    },
+    {
+        "flag": "pokemon/Kangama.png",
+        "correctAnswer": "Kangama"
+    },
+    {
+        "flag": "pokemon/Kanivanha.png",
+        "correctAnswer": "Kanivanha"
+    },
+    {
+        "flag": "pokemon/Kaocto.png",
+        "correctAnswer": "Kaocto"
+    },
+    {
+        "flag": "pokemon/Kapilz.png",
+        "correctAnswer": "Kapilz"
+    },
+    {
+        "flag": "pokemon/Kapoera.png",
+        "correctAnswer": "Kapoera"
+    },
+    {
+        "flag": "pokemon/Kappalores.png",
+        "correctAnswer": "Kappalores"
+    },
+    {
+        "flag": "pokemon/Kapu-Fala.png",
+        "correctAnswer": "Kapu-Fala"
+    },
+    {
+        "flag": "pokemon/Kapu-Kime.png",
+        "correctAnswer": "Kapu-Kime"
+    },
+    {
+        "flag": "pokemon/Kapu-Riki.png",
+        "correctAnswer": "Kapu-Riki"
+    },
+    {
+        "flag": "pokemon/Kapu-Toro.png",
+        "correctAnswer": "Kapu-Toro"
+    },
+    {
+        "flag": "pokemon/Kapuno.png",
+        "correctAnswer": "Kapuno"
+    },
+    {
+        "flag": "pokemon/Karadonis.png",
+        "correctAnswer": "Karadonis"
+    },
+    {
+        "flag": "pokemon/Karippas.png",
+        "correctAnswer": "Karippas"
+    },
+    {
+        "flag": "pokemon/Karnimani.png",
+        "correctAnswer": "Karnimani"
+    },
+    {
+        "flag": "pokemon/Karpador.png",
+        "correctAnswer": "Karpador"
+    },
+    {
+        "flag": "pokemon/Kastadur.png",
+        "correctAnswer": "Kastadur"
+    },
+    {
+        "flag": "pokemon/Katagami.png",
+        "correctAnswer": "Katagami"
+    },
+    {
+        "flag": "pokemon/Katapuldra.png",
+        "correctAnswer": "Katapuldra"
+    },
+    {
+        "flag": "pokemon/Kaumalat.png",
+        "correctAnswer": "Kaumalat"
+    },
+    {
+        "flag": "pokemon/Kecleon.png",
+        "correctAnswer": "Kecleon"
+    },
+    {
+        "flag": "pokemon/Keifel.png",
+        "correctAnswer": "Keifel"
+    },
+    {
+        "flag": "pokemon/Keilflamme.png",
+        "correctAnswer": "Keilflamme"
+    },
+    {
+        "flag": "pokemon/Keldeo.png",
+        "correctAnswer": "Keldeo"
+    },
+    {
+        "flag": "pokemon/Keradar.png",
+        "correctAnswer": "Keradar"
+    },
+    {
+        "flag": "pokemon/Kickerlo.png",
+        "correctAnswer": "Kickerlo"
+    },
+    {
+        "flag": "pokemon/Kicklee.png",
+        "correctAnswer": "Kicklee"
+    },
+    {
+        "flag": "pokemon/Kiesling.png",
+        "correctAnswer": "Kiesling"
+    },
+    {
+        "flag": "pokemon/Kikugi.png",
+        "correctAnswer": "Kikugi"
+    },
+    {
+        "flag": "pokemon/Kindwurm.png",
+        "correctAnswer": "Kindwurm"
+    },
+    {
+        "flag": "pokemon/Kingler.png",
+        "correctAnswer": "Kingler"
+    },
+    {
+        "flag": "pokemon/Kinoso.png",
+        "correctAnswer": "Kinoso"
+    },
+    {
+        "flag": "pokemon/Kirlia.png",
+        "correctAnswer": "Kirlia"
+    },
+    {
+        "flag": "pokemon/Kleinstein.png",
+        "correctAnswer": "Kleinstein"
+    },
+    {
+        "flag": "pokemon/Kleoparda.png",
+        "correctAnswer": "Kleoparda"
+    },
+    {
+        "flag": "pokemon/Kleptifux.png",
+        "correctAnswer": "Kleptifux"
+    },
+    {
+        "flag": "pokemon/Klibbe.png",
+        "correctAnswer": "Klibbe"
+    },
+    {
+        "flag": "pokemon/Klikdiklak.png",
+        "correctAnswer": "Klikdiklak"
+    },
+    {
+        "flag": "pokemon/Klikk.png",
+        "correctAnswer": "Klikk"
+    },
+    {
+        "flag": "pokemon/Kliklak.png",
+        "correctAnswer": "Kliklak"
+    },
+    {
+        "flag": "pokemon/Klingplim.png",
+        "correctAnswer": "Klingplim"
+    },
+    {
+        "flag": "pokemon/Klonkett.png",
+        "correctAnswer": "Klonkett"
+    },
+    {
+        "flag": "pokemon/Klopptopus.png",
+        "correctAnswer": "Klopptopus"
+    },
+    {
+        "flag": "pokemon/Knacklion.png",
+        "correctAnswer": "Knacklion"
+    },
+    {
+        "flag": "pokemon/Knakrack.png",
+        "correctAnswer": "Knakrack"
+    },
+    {
+        "flag": "pokemon/Knapfel.png",
+        "correctAnswer": "Knapfel"
+    },
+    {
+        "flag": "pokemon/Knarbon.png",
+        "correctAnswer": "Knarbon"
+    },
+    {
+        "flag": "pokemon/Knarksel.png",
+        "correctAnswer": "Knarksel"
+    },
+    {
+        "flag": "pokemon/Knattatox.png",
+        "correctAnswer": "Knattatox"
+    },
+    {
+        "flag": "pokemon/Knattox.png",
+        "correctAnswer": "Knattox"
+    },
+    {
+        "flag": "pokemon/Knilz.png",
+        "correctAnswer": "Knilz"
+    },
+    {
+        "flag": "pokemon/Knirfish.png",
+        "correctAnswer": "Knirfish"
+    },
+    {
+        "flag": "pokemon/Knofensa.png",
+        "correctAnswer": "Knofensa"
+    },
+    {
+        "flag": "pokemon/Knogga.png",
+        "correctAnswer": "Knogga"
+    },
+    {
+        "flag": "pokemon/Knospi.png",
+        "correctAnswer": "Knospi"
+    },
+    {
+        "flag": "pokemon/Knuddeluff.png",
+        "correctAnswer": "Knuddeluff"
+    },
+    {
+        "flag": "pokemon/Koalelu.png",
+        "correctAnswer": "Koalelu"
+    },
+    {
+        "flag": "pokemon/Kobalium.png",
+        "correctAnswer": "Kobalium"
+    },
+    {
+        "flag": "pokemon/Koknodon.png",
+        "correctAnswer": "Koknodon"
+    },
+    {
+        "flag": "pokemon/Kokowei.png",
+        "correctAnswer": "Kokowei"
+    },
+    {
+        "flag": "pokemon/Kokuna.png",
+        "correctAnswer": "Kokuna"
+    },
+    {
+        "flag": "pokemon/Kolowal.png",
+        "correctAnswer": "Kolowal"
+    },
+    {
+        "flag": "pokemon/Kommandutan.png",
+        "correctAnswer": "Kommandutan"
+    },
+    {
+        "flag": "pokemon/Kopplosio.png",
+        "correctAnswer": "Kopplosio"
+    },
+    {
+        "flag": "pokemon/Koraidon.png",
+        "correctAnswer": "Koraidon"
+    },
+    {
+        "flag": "pokemon/Kosturso.png",
+        "correctAnswer": "Kosturso"
+    },
+    {
+        "flag": "pokemon/Krabbox.png",
+        "correctAnswer": "Krabbox"
+    },
+    {
+        "flag": "pokemon/Krabby.png",
+        "correctAnswer": "Krabby"
+    },
+    {
+        "flag": "pokemon/Krakeelo.png",
+        "correctAnswer": "Krakeelo"
+    },
+    {
+        "flag": "pokemon/Kramshef.png",
+        "correctAnswer": "Kramshef"
+    },
+    {
+        "flag": "pokemon/Kramurx.png",
+        "correctAnswer": "Kramurx"
+    },
+    {
+        "flag": "pokemon/Kranoviz.png",
+        "correctAnswer": "Kranoviz"
+    },
+    {
+        "flag": "pokemon/Krarmor.png",
+        "correctAnswer": "Krarmor"
+    },
+    {
+        "flag": "pokemon/Krawalloro.png",
+        "correctAnswer": "Krawalloro"
+    },
+    {
+        "flag": "pokemon/Krawell.png",
+        "correctAnswer": "Krawell"
+    },
+    {
+        "flag": "pokemon/Krawumms.png",
+        "correctAnswer": "Krawumms"
+    },
+    {
+        "flag": "pokemon/Krebscorps.png",
+        "correctAnswer": "Krebscorps"
+    },
+    {
+        "flag": "pokemon/Krebutack.png",
+        "correctAnswer": "Krebutack"
+    },
+    {
+        "flag": "pokemon/Kriechflügel.png",
+        "correctAnswer": "Kriechflügel"
+    },
+    {
+        "flag": "pokemon/Krokel.png",
+        "correctAnswer": "Krokel"
+    },
+    {
+        "flag": "pokemon/Kronjuwild.png",
+        "correctAnswer": "Kronjuwild"
+    },
+    {
+        "flag": "pokemon/Kryppuk.png",
+        "correctAnswer": "Kryppuk"
+    },
+    {
+        "flag": "pokemon/Kubuin.png",
+        "correctAnswer": "Kubuin"
+    },
+    {
+        "flag": "pokemon/Kukmarda.png",
+        "correctAnswer": "Kukmarda"
+    },
+    {
+        "flag": "pokemon/Kupfanti.png",
+        "correctAnswer": "Kupfanti"
+    },
+    {
+        "flag": "pokemon/Kussilla.png",
+        "correctAnswer": "Kussilla"
+    },
+    {
+        "flag": "pokemon/Kwaks.png",
+        "correctAnswer": "Kwaks"
+    },
+    {
+        "flag": "pokemon/Kyogre.png",
+        "correctAnswer": "Kyogre"
+    },
+    {
+        "flag": "pokemon/Kyurem.png",
+        "correctAnswer": "Kyurem"
+    },
+    {
+        "flag": "pokemon/Lahmus.png",
+        "correctAnswer": "Lahmus"
+    },
+    {
+        "flag": "pokemon/Lamellux.png",
+        "correctAnswer": "Lamellux"
+    },
+    {
+        "flag": "pokemon/Lampi.png",
+        "correctAnswer": "Lampi"
+    },
+    {
+        "flag": "pokemon/Lanturn.png",
+        "correctAnswer": "Lanturn"
+    },
+    {
+        "flag": "pokemon/Lapras.png",
+        "correctAnswer": "Lapras"
+    },
+    {
+        "flag": "pokemon/Larvitar.png",
+        "correctAnswer": "Larvitar"
+    },
+    {
+        "flag": "pokemon/Laschoking.png",
+        "correctAnswer": "Laschoking"
+    },
+    {
+        "flag": "pokemon/Laternecto.png",
+        "correctAnswer": "Laternecto"
+    },
+    {
+        "flag": "pokemon/Latias.png",
+        "correctAnswer": "Latias"
+    },
+    {
+        "flag": "pokemon/Latios.png",
+        "correctAnswer": "Latios"
+    },
+    {
+        "flag": "pokemon/Lauchzelot.png",
+        "correctAnswer": "Lauchzelot"
+    },
+    {
+        "flag": "pokemon/Laukaps.png",
+        "correctAnswer": "Laukaps"
+    },
+    {
+        "flag": "pokemon/Lavados.png",
+        "correctAnswer": "Lavados"
+    },
+    {
+        "flag": "pokemon/Lecryodon.png",
+        "correctAnswer": "Lecryodon"
+    },
+    {
+        "flag": "pokemon/Lectragon.png",
+        "correctAnswer": "Lectragon"
+    },
+    {
+        "flag": "pokemon/Ledian.png",
+        "correctAnswer": "Ledian"
+    },
+    {
+        "flag": "pokemon/Ledyba.png",
+        "correctAnswer": "Ledyba"
+    },
+    {
+        "flag": "pokemon/Legios.png",
+        "correctAnswer": "Legios"
+    },
+    {
+        "flag": "pokemon/Lektrobal.png",
+        "correctAnswer": "Lektrobal"
+    },
+    {
+        "flag": "pokemon/Lepumentas.png",
+        "correctAnswer": "Lepumentas"
+    },
+    {
+        "flag": "pokemon/Letarking.png",
+        "correctAnswer": "Letarking"
+    },
+    {
+        "flag": "pokemon/Leufeo.png",
+        "correctAnswer": "Leufeo"
+    },
+    {
+        "flag": "pokemon/Lextremo.png",
+        "correctAnswer": "Lextremo"
+    },
+    {
+        "flag": "pokemon/Libelldra.png",
+        "correctAnswer": "Libelldra"
+    },
+    {
+        "flag": "pokemon/Liberlo.png",
+        "correctAnswer": "Liberlo"
+    },
+    {
+        "flag": "pokemon/Lichtel.png",
+        "correctAnswer": "Lichtel"
+    },
+    {
+        "flag": "pokemon/Liebiskus.png",
+        "correctAnswer": "Liebiskus"
+    },
+    {
+        "flag": "pokemon/Liliep.png",
+        "correctAnswer": "Liliep"
+    },
+    {
+        "flag": "pokemon/Lilminip.png",
+        "correctAnswer": "Lilminip"
+    },
+    {
+        "flag": "pokemon/Lin-Fu.png",
+        "correctAnswer": "Lin-Fu"
+    },
+    {
+        "flag": "pokemon/Lithomith.png",
+        "correctAnswer": "Lithomith"
+    },
+    {
+        "flag": "pokemon/Lohgock.png",
+        "correctAnswer": "Lohgock"
+    },
+    {
+        "flag": "pokemon/Lokroko.png",
+        "correctAnswer": "Lokroko"
+    },
+    {
+        "flag": "pokemon/Lombrero.png",
+        "correctAnswer": "Lombrero"
+    },
+    {
+        "flag": "pokemon/Lorblatt.png",
+        "correctAnswer": "Lorblatt"
+    },
+    {
+        "flag": "pokemon/Loturzel.png",
+        "correctAnswer": "Loturzel"
+    },
+    {
+        "flag": "pokemon/Lucario.png",
+        "correctAnswer": "Lucario"
+    },
+    {
+        "flag": "pokemon/Lugia.png",
+        "correctAnswer": "Lugia"
+    },
+    {
+        "flag": "pokemon/Lumiflora.png",
+        "correctAnswer": "Lumiflora"
+    },
+    {
+        "flag": "pokemon/Lumineon.png",
+        "correctAnswer": "Lumineon"
+    },
+    {
+        "flag": "pokemon/Lumispross.png",
+        "correctAnswer": "Lumispross"
+    },
+    {
+        "flag": "pokemon/Lunala.png",
+        "correctAnswer": "Lunala"
+    },
+    {
+        "flag": "pokemon/Lunastein.png",
+        "correctAnswer": "Lunastein"
+    },
+    {
+        "flag": "pokemon/Lusardin.png",
+        "correctAnswer": "Lusardin"
+    },
+    {
+        "flag": "pokemon/Luxio.png",
+        "correctAnswer": "Luxio"
+    },
+    {
+        "flag": "pokemon/Luxtra.png",
+        "correctAnswer": "Luxtra"
+    },
+    {
+        "flag": "pokemon/Mabula.png",
+        "correctAnswer": "Mabula"
+    },
+    {
+        "flag": "pokemon/Machollo.png",
+        "correctAnswer": "Machollo"
+    },
+    {
+        "flag": "pokemon/Machomei.png",
+        "correctAnswer": "Machomei"
+    },
+    {
+        "flag": "pokemon/Magbrant.png",
+        "correctAnswer": "Magbrant"
+    },
+    {
+        "flag": "pokemon/Magby.png",
+        "correctAnswer": "Magby"
+    },
+    {
+        "flag": "pokemon/Magcargo.png",
+        "correctAnswer": "Magcargo"
+    },
+    {
+        "flag": "pokemon/Magearna.png",
+        "correctAnswer": "Magearna"
+    },
+    {
+        "flag": "pokemon/Magmar.png",
+        "correctAnswer": "Magmar"
+    },
+    {
+        "flag": "pokemon/Magnayen.png",
+        "correctAnswer": "Magnayen"
+    },
+    {
+        "flag": "pokemon/Magnetilo.png",
+        "correctAnswer": "Magnetilo"
+    },
+    {
+        "flag": "pokemon/Magneton.png",
+        "correctAnswer": "Magneton"
+    },
+    {
+        "flag": "pokemon/Magnezone.png",
+        "correctAnswer": "Magnezone"
+    },
+    {
+        "flag": "pokemon/Makabaja.png",
+        "correctAnswer": "Makabaja"
+    },
+    {
+        "flag": "pokemon/Makuhita.png",
+        "correctAnswer": "Makuhita"
+    },
+    {
+        "flag": "pokemon/Mamolida.png",
+        "correctAnswer": "Mamolida"
+    },
+    {
+        "flag": "pokemon/Mampfaxo.png",
+        "correctAnswer": "Mampfaxo"
+    },
+    {
+        "flag": "pokemon/Mamutel.png",
+        "correctAnswer": "Mamutel"
+    },
+    {
+        "flag": "pokemon/Manaphy.png",
+        "correctAnswer": "Manaphy"
+    },
+    {
+        "flag": "pokemon/Mangunior.png",
+        "correctAnswer": "Mangunior"
+    },
+    {
+        "flag": "pokemon/Manguspektor.png",
+        "correctAnswer": "Manguspektor"
+    },
+    {
+        "flag": "pokemon/Mantax.png",
+        "correctAnswer": "Mantax"
+    },
+    {
+        "flag": "pokemon/Mantidea.png",
+        "correctAnswer": "Mantidea"
+    },
+    {
+        "flag": "pokemon/Mantirps.png",
+        "correctAnswer": "Mantirps"
+    },
+    {
+        "flag": "pokemon/Maracamba.png",
+        "correctAnswer": "Maracamba"
+    },
+    {
+        "flag": "pokemon/Marikeck.png",
+        "correctAnswer": "Marikeck"
+    },
+    {
+        "flag": "pokemon/Marill.png",
+        "correctAnswer": "Marill"
+    },
+    {
+        "flag": "pokemon/Maritellit.png",
+        "correctAnswer": "Maritellit"
+    },
+    {
+        "flag": "pokemon/Marshadow.png",
+        "correctAnswer": "Marshadow"
+    },
+    {
+        "flag": "pokemon/Maschock.png",
+        "correctAnswer": "Maschock"
+    },
+    {
+        "flag": "pokemon/Maskagato.png",
+        "correctAnswer": "Maskagato"
+    },
+    {
+        "flag": "pokemon/Maskeregen.png",
+        "correctAnswer": "Maskeregen"
+    },
+    {
+        "flag": "pokemon/Masskito.png",
+        "correctAnswer": "Masskito"
+    },
+    {
+        "flag": "pokemon/Mastifioso.png",
+        "correctAnswer": "Mastifioso"
+    },
+    {
+        "flag": "pokemon/Matrifol.png",
+        "correctAnswer": "Matrifol"
+    },
+    {
+        "flag": "pokemon/Mauzi.png",
+        "correctAnswer": "Mauzi"
+    },
+    {
+        "flag": "pokemon/Mauzinger.png",
+        "correctAnswer": "Mauzinger"
+    },
+    {
+        "flag": "pokemon/Maxax.png",
+        "correctAnswer": "Maxax"
+    },
+    {
+        "flag": "pokemon/Mebrana.png",
+        "correctAnswer": "Mebrana"
+    },
+    {
+        "flag": "pokemon/Mediras.png",
+        "correctAnswer": "Mediras"
+    },
+    {
+        "flag": "pokemon/Meditalis.png",
+        "correctAnswer": "Meditalis"
+    },
+    {
+        "flag": "pokemon/Meditie.png",
+        "correctAnswer": "Meditie"
+    },
+    {
+        "flag": "pokemon/Megalon.png",
+        "correctAnswer": "Megalon"
+    },
+    {
+        "flag": "pokemon/Meganie.png",
+        "correctAnswer": "Meganie"
+    },
+    {
+        "flag": "pokemon/Meikro.png",
+        "correctAnswer": "Meikro"
+    },
+    {
+        "flag": "pokemon/Meistagrif.png",
+        "correctAnswer": "Meistagrif"
+    },
+    {
+        "flag": "pokemon/Melmetal.png",
+        "correctAnswer": "Melmetal"
+    },
+    {
+        "flag": "pokemon/Meloetta.png",
+        "correctAnswer": "Meloetta"
+    },
+    {
+        "flag": "pokemon/Meltan.png",
+        "correctAnswer": "Meltan"
+    },
+    {
+        "flag": "pokemon/Memmeon.png",
+        "correctAnswer": "Memmeon"
+    },
+    {
+        "flag": "pokemon/Menki.png",
+        "correctAnswer": "Menki"
+    },
+    {
+        "flag": "pokemon/Metagross.png",
+        "correctAnswer": "Metagross"
+    },
+    {
+        "flag": "pokemon/Metang.png",
+        "correctAnswer": "Metang"
+    },
+    {
+        "flag": "pokemon/Meteno.png",
+        "correctAnswer": "Meteno"
+    },
+    {
+        "flag": "pokemon/Mew.png",
+        "correctAnswer": "Mew"
+    },
+    {
+        "flag": "pokemon/Mewtu.png",
+        "correctAnswer": "Mewtu"
+    },
+    {
+        "flag": "pokemon/Micrick.png",
+        "correctAnswer": "Micrick"
+    },
+    {
+        "flag": "pokemon/Miezunder.png",
+        "correctAnswer": "Miezunder"
+    },
+    {
+        "flag": "pokemon/Milotic.png",
+        "correctAnswer": "Milotic"
+    },
+    {
+        "flag": "pokemon/Miltank.png",
+        "correctAnswer": "Miltank"
+    },
+    {
+        "flag": "pokemon/Milza.png",
+        "correctAnswer": "Milza"
+    },
+    {
+        "flag": "pokemon/Mimigma.png",
+        "correctAnswer": "Mimigma"
+    },
+    {
+        "flag": "pokemon/Miniras.png",
+        "correctAnswer": "Miniras"
+    },
+    {
+        "flag": "pokemon/Minun.png",
+        "correctAnswer": "Minun"
+    },
+    {
+        "flag": "pokemon/Miraidon.png",
+        "correctAnswer": "Miraidon"
+    },
+    {
+        "flag": "pokemon/Mitodos.png",
+        "correctAnswer": "Mitodos"
+    },
+    {
+        "flag": "pokemon/Mobai.png",
+        "correctAnswer": "Mobai"
+    },
+    {
+        "flag": "pokemon/Mobtiff.png",
+        "correctAnswer": "Mobtiff"
+    },
+    {
+        "flag": "pokemon/Mogelbaum.png",
+        "correctAnswer": "Mogelbaum"
+    },
+    {
+        "flag": "pokemon/Mollimorba.png",
+        "correctAnswer": "Mollimorba"
+    },
+    {
+        "flag": "pokemon/Molunk.png",
+        "correctAnswer": "Molunk"
+    },
+    {
+        "flag": "pokemon/Monargoras.png",
+        "correctAnswer": "Monargoras"
+    },
+    {
+        "flag": "pokemon/Monetigo.png",
+        "correctAnswer": "Monetigo"
+    },
+    {
+        "flag": "pokemon/Monozyto.png",
+        "correctAnswer": "Monozyto"
+    },
+    {
+        "flag": "pokemon/Montecarbo.png",
+        "correctAnswer": "Montecarbo"
+    },
+    {
+        "flag": "pokemon/Moorabbel.png",
+        "correctAnswer": "Moorabbel"
+    },
+    {
+        "flag": "pokemon/Mopex.png",
+        "correctAnswer": "Mopex"
+    },
+    {
+        "flag": "pokemon/Morbitesse.png",
+        "correctAnswer": "Morbitesse"
+    },
+    {
+        "flag": "pokemon/Morlord.png",
+        "correctAnswer": "Morlord"
+    },
+    {
+        "flag": "pokemon/Morpeko.png",
+        "correctAnswer": "Morpeko"
+    },
+    {
+        "flag": "pokemon/Mortcha.png",
+        "correctAnswer": "Mortcha"
+    },
+    {
+        "flag": "pokemon/Mortipot.png",
+        "correctAnswer": "Mortipot"
+    },
+    {
+        "flag": "pokemon/Moruda.png",
+        "correctAnswer": "Moruda"
+    },
+    {
+        "flag": "pokemon/Moterpel.png",
+        "correctAnswer": "Moterpel"
+    },
+    {
+        "flag": "pokemon/Mottineva.png",
+        "correctAnswer": "Mottineva"
+    },
+    {
+        "flag": "pokemon/Muntier.png",
+        "correctAnswer": "Muntier"
+    },
+    {
+        "flag": "pokemon/Muramura.png",
+        "correctAnswer": "Muramura"
+    },
+    {
+        "flag": "pokemon/Muschas.png",
+        "correctAnswer": "Muschas"
+    },
+    {
+        "flag": "pokemon/Myrapla.png",
+        "correctAnswer": "Myrapla"
+    },
+    {
+        "flag": "pokemon/Myriador.png",
+        "correctAnswer": "Myriador"
+    },
+    {
+        "flag": "pokemon/Mähikel.png",
+        "correctAnswer": "Mähikel"
+    },
+    {
+        "flag": "pokemon/Nachtara.png",
+        "correctAnswer": "Nachtara"
+    },
+    {
+        "flag": "pokemon/Nagelotz.png",
+        "correctAnswer": "Nagelotz"
+    },
+    {
+        "flag": "pokemon/Nasgnet.png",
+        "correctAnswer": "Nasgnet"
+    },
+    {
+        "flag": "pokemon/Natu.png",
+        "correctAnswer": "Natu"
+    },
+    {
+        "flag": "pokemon/Navitaub.png",
+        "correctAnswer": "Navitaub"
+    },
+    {
+        "flag": "pokemon/Nebulak.png",
+        "correctAnswer": "Nebulak"
+    },
+    {
+        "flag": "pokemon/Necrozma.png",
+        "correctAnswer": "Necrozma"
+    },
+    {
+        "flag": "pokemon/Nidoking.png",
+        "correctAnswer": "Nidoking"
+    },
+    {
+        "flag": "pokemon/Nidoqueen.png",
+        "correctAnswer": "Nidoqueen"
+    },
+    {
+        "flag": "pokemon/Nidoran♀.png",
+        "correctAnswer": "Nidoran♀"
+    },
+    {
+        "flag": "pokemon/Nidoran♂.png",
+        "correctAnswer": "Nidoran♂"
+    },
+    {
+        "flag": "pokemon/Nidorina.png",
+        "correctAnswer": "Nidorina"
+    },
+    {
+        "flag": "pokemon/Nidorino.png",
+        "correctAnswer": "Nidorino"
+    },
+    {
+        "flag": "pokemon/Nigiragi.png",
+        "correctAnswer": "Nigiragi"
+    },
+    {
+        "flag": "pokemon/Nincada.png",
+        "correctAnswer": "Nincada"
+    },
+    {
+        "flag": "pokemon/Ninjask.png",
+        "correctAnswer": "Ninjask"
+    },
+    {
+        "flag": "pokemon/Ninjatom.png",
+        "correctAnswer": "Ninjatom"
+    },
+    {
+        "flag": "pokemon/Nockchan.png",
+        "correctAnswer": "Nockchan"
+    },
+    {
+        "flag": "pokemon/Noctuh.png",
+        "correctAnswer": "Noctuh"
+    },
+    {
+        "flag": "pokemon/Noktuska.png",
+        "correctAnswer": "Noktuska"
+    },
+    {
+        "flag": "pokemon/Normifin.png",
+        "correctAnswer": "Normifin"
+    },
+    {
+        "flag": "pokemon/Octillery.png",
+        "correctAnswer": "Octillery"
+    },
+    {
+        "flag": "pokemon/Ogerpon.png",
+        "correctAnswer": "Ogerpon"
+    },
+    {
+        "flag": "pokemon/Oghnatoll.png",
+        "correctAnswer": "Oghnatoll"
+    },
+    {
+        "flag": "pokemon/Ohrdoch.png",
+        "correctAnswer": "Ohrdoch"
+    },
+    {
+        "flag": "pokemon/Olangaar.png",
+        "correctAnswer": "Olangaar"
+    },
+    {
+        "flag": "pokemon/Olini.png",
+        "correctAnswer": "Olini"
+    },
+    {
+        "flag": "pokemon/Olithena.png",
+        "correctAnswer": "Olithena"
+    },
+    {
+        "flag": "pokemon/Olivinio.png",
+        "correctAnswer": "Olivinio"
+    },
+    {
+        "flag": "pokemon/Omot.png",
+        "correctAnswer": "Omot"
+    },
+    {
+        "flag": "pokemon/Onix.png",
+        "correctAnswer": "Onix"
+    },
+    {
+        "flag": "pokemon/Ottaro.png",
+        "correctAnswer": "Ottaro"
+    },
+    {
+        "flag": "pokemon/Owei.png",
+        "correctAnswer": "Owei"
+    },
+    {
+        "flag": "pokemon/Pachirisu.png",
+        "correctAnswer": "Pachirisu"
+    },
+    {
+        "flag": "pokemon/Palimpalim.png",
+        "correctAnswer": "Palimpalim"
+    },
+    {
+        "flag": "pokemon/Palkia.png",
+        "correctAnswer": "Palkia"
+    },
+    {
+        "flag": "pokemon/Pam-Pam.png",
+        "correctAnswer": "Pam-Pam"
+    },
+    {
+        "flag": "pokemon/Pamamo.png",
+        "correctAnswer": "Pamamo"
+    },
+    {
+        "flag": "pokemon/Pamo.png",
+        "correctAnswer": "Pamo"
+    },
+    {
+        "flag": "pokemon/Pamomamo.png",
+        "correctAnswer": "Pamomamo"
+    },
+    {
+        "flag": "pokemon/Pampross.png",
+        "correctAnswer": "Pampross"
+    },
+    {
+        "flag": "pokemon/Pampuli.png",
+        "correctAnswer": "Pampuli"
+    },
+    {
+        "flag": "pokemon/Pandagro.png",
+        "correctAnswer": "Pandagro"
+    },
+    {
+        "flag": "pokemon/Pandir.png",
+        "correctAnswer": "Pandir"
+    },
+    {
+        "flag": "pokemon/Panekon.png",
+        "correctAnswer": "Panekon"
+    },
+    {
+        "flag": "pokemon/Panferno.png",
+        "correctAnswer": "Panferno"
+    },
+    {
+        "flag": "pokemon/Panflam.png",
+        "correctAnswer": "Panflam"
+    },
+    {
+        "flag": "pokemon/Panpyro.png",
+        "correctAnswer": "Panpyro"
+    },
+    {
+        "flag": "pokemon/Pantifrost.png",
+        "correctAnswer": "Pantifrost"
+    },
+    {
+        "flag": "pokemon/Pantimimi.png",
+        "correctAnswer": "Pantimimi"
+    },
+    {
+        "flag": "pokemon/Pantimos.png",
+        "correctAnswer": "Pantimos"
+    },
+    {
+        "flag": "pokemon/Panzaeron.png",
+        "correctAnswer": "Panzaeron"
+    },
+    {
+        "flag": "pokemon/Papinella.png",
+        "correctAnswer": "Papinella"
+    },
+    {
+        "flag": "pokemon/Papungha.png",
+        "correctAnswer": "Papungha"
+    },
+    {
+        "flag": "pokemon/Paragoni.png",
+        "correctAnswer": "Paragoni"
+    },
+    {
+        "flag": "pokemon/Paras.png",
+        "correctAnswer": "Paras"
+    },
+    {
+        "flag": "pokemon/Parasek.png",
+        "correctAnswer": "Parasek"
+    },
+    {
+        "flag": "pokemon/Parfi.png",
+        "correctAnswer": "Parfi"
+    },
+    {
+        "flag": "pokemon/Parfinesse.png",
+        "correctAnswer": "Parfinesse"
+    },
+    {
+        "flag": "pokemon/Patinaraja.png",
+        "correctAnswer": "Patinaraja"
+    },
+    {
+        "flag": "pokemon/Pelipper.png",
+        "correctAnswer": "Pelipper"
+    },
+    {
+        "flag": "pokemon/Pelzebub.png",
+        "correctAnswer": "Pelzebub"
+    },
+    {
+        "flag": "pokemon/Peppeck.png",
+        "correctAnswer": "Peppeck"
+    },
+    {
+        "flag": "pokemon/Perlu.png",
+        "correctAnswer": "Perlu"
+    },
+    {
+        "flag": "pokemon/Pescragon.png",
+        "correctAnswer": "Pescragon"
+    },
+    {
+        "flag": "pokemon/Pescryodon.png",
+        "correctAnswer": "Pescryodon"
+    },
+    {
+        "flag": "pokemon/Petznief.png",
+        "correctAnswer": "Petznief"
+    },
+    {
+        "flag": "pokemon/Phandra.png",
+        "correctAnswer": "Phandra"
+    },
+    {
+        "flag": "pokemon/Phanpy.png",
+        "correctAnswer": "Phanpy"
+    },
+    {
+        "flag": "pokemon/Phantoross.png",
+        "correctAnswer": "Phantoross"
+    },
+    {
+        "flag": "pokemon/Phione.png",
+        "correctAnswer": "Phione"
+    },
+    {
+        "flag": "pokemon/Phlegleon.png",
+        "correctAnswer": "Phlegleon"
+    },
+    {
+        "flag": "pokemon/Piccolente.png",
+        "correctAnswer": "Piccolente"
+    },
+    {
+        "flag": "pokemon/Pichu.png",
+        "correctAnswer": "Pichu"
+    },
+    {
+        "flag": "pokemon/Picochilla.png",
+        "correctAnswer": "Picochilla"
+    },
+    {
+        "flag": "pokemon/Piepi.png",
+        "correctAnswer": "Piepi"
+    },
+    {
+        "flag": "pokemon/Pii.png",
+        "correctAnswer": "Pii"
+    },
+    {
+        "flag": "pokemon/Pikachu.png",
+        "correctAnswer": "Pikachu"
+    },
+    {
+        "flag": "pokemon/Pikuda.png",
+        "correctAnswer": "Pikuda"
+    },
+    {
+        "flag": "pokemon/Pinsir.png",
+        "correctAnswer": "Pinsir"
+    },
+    {
+        "flag": "pokemon/Piondragi.png",
+        "correctAnswer": "Piondragi"
+    },
+    {
+        "flag": "pokemon/Pionskora.png",
+        "correctAnswer": "Pionskora"
+    },
+    {
+        "flag": "pokemon/Pixi.png",
+        "correctAnswer": "Pixi"
+    },
+    {
+        "flag": "pokemon/Plaudagei.png",
+        "correctAnswer": "Plaudagei"
+    },
+    {
+        "flag": "pokemon/Plinfa.png",
+        "correctAnswer": "Plinfa"
+    },
+    {
+        "flag": "pokemon/Pliprin.png",
+        "correctAnswer": "Pliprin"
+    },
+    {
+        "flag": "pokemon/Plusle.png",
+        "correctAnswer": "Plusle"
+    },
+    {
+        "flag": "pokemon/Pokusan.png",
+        "correctAnswer": "Pokusan"
+    },
+    {
+        "flag": "pokemon/Polaross.png",
+        "correctAnswer": "Polaross"
+    },
+    {
+        "flag": "pokemon/Ponita.png",
+        "correctAnswer": "Ponita"
+    },
+    {
+        "flag": "pokemon/Porenta.png",
+        "correctAnswer": "Porenta"
+    },
+    {
+        "flag": "pokemon/Porygon-Z.png",
+        "correctAnswer": "Porygon-Z"
+    },
+    {
+        "flag": "pokemon/Porygon.png",
+        "correctAnswer": "Porygon"
+    },
+    {
+        "flag": "pokemon/Porygon2.png",
+        "correctAnswer": "Porygon2"
+    },
+    {
+        "flag": "pokemon/Pottrott.png",
+        "correctAnswer": "Pottrott"
+    },
+    {
+        "flag": "pokemon/Praktibalk.png",
+        "correctAnswer": "Praktibalk"
+    },
+    {
+        "flag": "pokemon/Primarene.png",
+        "correctAnswer": "Primarene"
+    },
+    {
+        "flag": "pokemon/Psiana.png",
+        "correctAnswer": "Psiana"
+    },
+    {
+        "flag": "pokemon/Psiau.png",
+        "correctAnswer": "Psiau"
+    },
+    {
+        "flag": "pokemon/Psiaugon.png",
+        "correctAnswer": "Psiaugon"
+    },
+    {
+        "flag": "pokemon/Psiopatra.png",
+        "correctAnswer": "Psiopatra"
+    },
+    {
+        "flag": "pokemon/Pudox.png",
+        "correctAnswer": "Pudox"
+    },
+    {
+        "flag": "pokemon/Pummeluff.png",
+        "correctAnswer": "Pummeluff"
+    },
+    {
+        "flag": "pokemon/Pumpdjinn.png",
+        "correctAnswer": "Pumpdjinn"
+    },
+    {
+        "flag": "pokemon/Pupitar.png",
+        "correctAnswer": "Pupitar"
+    },
+    {
+        "flag": "pokemon/Puponcho.png",
+        "correctAnswer": "Puponcho"
+    },
+    {
+        "flag": "pokemon/Puppance.png",
+        "correctAnswer": "Puppance"
+    },
+    {
+        "flag": "pokemon/Purmel.png",
+        "correctAnswer": "Purmel"
+    },
+    {
+        "flag": "pokemon/Pygraulon.png",
+        "correctAnswer": "Pygraulon"
+    },
+    {
+        "flag": "pokemon/Pyroleo.png",
+        "correctAnswer": "Pyroleo"
+    },
+    {
+        "flag": "pokemon/Quabbel.png",
+        "correctAnswer": "Quabbel"
+    },
+    {
+        "flag": "pokemon/Quajutsu.png",
+        "correctAnswer": "Quajutsu"
+    },
+    {
+        "flag": "pokemon/Quappo.png",
+        "correctAnswer": "Quappo"
+    },
+    {
+        "flag": "pokemon/Quapsel.png",
+        "correctAnswer": "Quapsel"
+    },
+    {
+        "flag": "pokemon/Quaputzi.png",
+        "correctAnswer": "Quaputzi"
+    },
+    {
+        "flag": "pokemon/Quartermak.png",
+        "correctAnswer": "Quartermak"
+    },
+    {
+        "flag": "pokemon/Quaxo.png",
+        "correctAnswer": "Quaxo"
+    },
+    {
+        "flag": "pokemon/Quiekel.png",
+        "correctAnswer": "Quiekel"
+    },
+    {
+        "flag": "pokemon/Qurtel.png",
+        "correctAnswer": "Qurtel"
+    },
+    {
+        "flag": "pokemon/Rabauz.png",
+        "correctAnswer": "Rabauz"
+    },
+    {
+        "flag": "pokemon/Rabigator.png",
+        "correctAnswer": "Rabigator"
+    },
+    {
+        "flag": "pokemon/Raffel.png",
+        "correctAnswer": "Raffel"
+    },
+    {
+        "flag": "pokemon/Raichu.png",
+        "correctAnswer": "Raichu"
+    },
+    {
+        "flag": "pokemon/Raikou.png",
+        "correctAnswer": "Raikou"
+    },
+    {
+        "flag": "pokemon/Rameidon.png",
+        "correctAnswer": "Rameidon"
+    },
+    {
+        "flag": "pokemon/Ramoth.png",
+        "correctAnswer": "Ramoth"
+    },
+    {
+        "flag": "pokemon/Rasaff.png",
+        "correctAnswer": "Rasaff"
+    },
+    {
+        "flag": "pokemon/Rattfratz.png",
+        "correctAnswer": "Rattfratz"
+    },
+    {
+        "flag": "pokemon/Rattikarl.png",
+        "correctAnswer": "Rattikarl"
+    },
+    {
+        "flag": "pokemon/Raupy.png",
+        "correctAnswer": "Raupy"
+    },
+    {
+        "flag": "pokemon/Rayquaza.png",
+        "correctAnswer": "Rayquaza"
+    },
+    {
+        "flag": "pokemon/Regice.png",
+        "correctAnswer": "Regice"
+    },
+    {
+        "flag": "pokemon/Regidrago.png",
+        "correctAnswer": "Regidrago"
+    },
+    {
+        "flag": "pokemon/Regieleki.png",
+        "correctAnswer": "Regieleki"
+    },
+    {
+        "flag": "pokemon/Regigigas.png",
+        "correctAnswer": "Regigigas"
+    },
+    {
+        "flag": "pokemon/Regirock.png",
+        "correctAnswer": "Regirock"
+    },
+    {
+        "flag": "pokemon/Registeel.png",
+        "correctAnswer": "Registeel"
+    },
+    {
+        "flag": "pokemon/Reißlaus.png",
+        "correctAnswer": "Reißlaus"
+    },
+    {
+        "flag": "pokemon/Relaxo.png",
+        "correctAnswer": "Relaxo"
+    },
+    {
+        "flag": "pokemon/Relicanth.png",
+        "correctAnswer": "Relicanth"
+    },
+    {
+        "flag": "pokemon/Relluk.png",
+        "correctAnswer": "Relluk"
+    },
+    {
+        "flag": "pokemon/Remoraid.png",
+        "correctAnswer": "Remoraid"
+    },
+    {
+        "flag": "pokemon/Reptain.png",
+        "correctAnswer": "Reptain"
+    },
+    {
+        "flag": "pokemon/Reshiram.png",
+        "correctAnswer": "Reshiram"
+    },
+    {
+        "flag": "pokemon/Resladero.png",
+        "correctAnswer": "Resladero"
+    },
+    {
+        "flag": "pokemon/Rettan.png",
+        "correctAnswer": "Rettan"
+    },
+    {
+        "flag": "pokemon/Rexblisar.png",
+        "correctAnswer": "Rexblisar"
+    },
+    {
+        "flag": "pokemon/Riesenzahn.png",
+        "correctAnswer": "Riesenzahn"
+    },
+    {
+        "flag": "pokemon/Riffex.png",
+        "correctAnswer": "Riffex"
+    },
+    {
+        "flag": "pokemon/Rihorn.png",
+        "correctAnswer": "Rihorn"
+    },
+    {
+        "flag": "pokemon/Rihornior.png",
+        "correctAnswer": "Rihornior"
+    },
+    {
+        "flag": "pokemon/Riolu.png",
+        "correctAnswer": "Riolu"
+    },
+    {
+        "flag": "pokemon/Rizeros.png",
+        "correctAnswer": "Rizeros"
+    },
+    {
+        "flag": "pokemon/Robball.png",
+        "correctAnswer": "Robball"
+    },
+    {
+        "flag": "pokemon/Rocara.png",
+        "correctAnswer": "Rocara"
+    },
+    {
+        "flag": "pokemon/Rokkaiman.png",
+        "correctAnswer": "Rokkaiman"
+    },
+    {
+        "flag": "pokemon/Rollum.png",
+        "correctAnswer": "Rollum"
+    },
+    {
+        "flag": "pokemon/Roselia.png",
+        "correctAnswer": "Roselia"
+    },
+    {
+        "flag": "pokemon/Roserade.png",
+        "correctAnswer": "Roserade"
+    },
+    {
+        "flag": "pokemon/Rossana.png",
+        "correctAnswer": "Rossana"
+    },
+    {
+        "flag": "pokemon/Rotom.png",
+        "correctAnswer": "Rotom"
+    },
+    {
+        "flag": "pokemon/Rotomurf.png",
+        "correctAnswer": "Rotomurf"
+    },
+    {
+        "flag": "pokemon/Rutena.png",
+        "correctAnswer": "Rutena"
+    },
+    {
+        "flag": "pokemon/Sabbaione.png",
+        "correctAnswer": "Sabbaione"
+    },
+    {
+        "flag": "pokemon/Safcon.png",
+        "correctAnswer": "Safcon"
+    },
+    {
+        "flag": "pokemon/Saganabyss.png",
+        "correctAnswer": "Saganabyss"
+    },
+    {
+        "flag": "pokemon/Salanga.png",
+        "correctAnswer": "Salanga"
+    },
+    {
+        "flag": "pokemon/Salmagnis.png",
+        "correctAnswer": "Salmagnis"
+    },
+    {
+        "flag": "pokemon/Saltigant.png",
+        "correctAnswer": "Saltigant"
+    },
+    {
+        "flag": "pokemon/Samurzel.png",
+        "correctAnswer": "Samurzel"
+    },
+    {
+        "flag": "pokemon/Sanaconda.png",
+        "correctAnswer": "Sanaconda"
+    },
+    {
+        "flag": "pokemon/Sandamer.png",
+        "correctAnswer": "Sandamer"
+    },
+    {
+        "flag": "pokemon/Sandan.png",
+        "correctAnswer": "Sandan"
+    },
+    {
+        "flag": "pokemon/Sandfell.png",
+        "correctAnswer": "Sandfell"
+    },
+    {
+        "flag": "pokemon/Sankabuh.png",
+        "correctAnswer": "Sankabuh"
+    },
+    {
+        "flag": "pokemon/Sarzenia.png",
+        "correctAnswer": "Sarzenia"
+    },
+    {
+        "flag": "pokemon/Scampisto.png",
+        "correctAnswer": "Scampisto"
+    },
+    {
+        "flag": "pokemon/Schabelle.png",
+        "correctAnswer": "Schabelle"
+    },
+    {
+        "flag": "pokemon/Schalellos.png",
+        "correctAnswer": "Schalellos"
+    },
+    {
+        "flag": "pokemon/Schallquap.png",
+        "correctAnswer": "Schallquap"
+    },
+    {
+        "flag": "pokemon/Schaloko.png",
+        "correctAnswer": "Schaloko"
+    },
+    {
+        "flag": "pokemon/Scherox.png",
+        "correctAnswer": "Scherox"
+    },
+    {
+        "flag": "pokemon/Schiggy.png",
+        "correctAnswer": "Schiggy"
+    },
+    {
+        "flag": "pokemon/Schillok.png",
+        "correctAnswer": "Schillok"
+    },
+    {
+        "flag": "pokemon/Schilterus.png",
+        "correctAnswer": "Schilterus"
+    },
+    {
+        "flag": "pokemon/Schlapfel.png",
+        "correctAnswer": "Schlapfel"
+    },
+    {
+        "flag": "pokemon/Schlapor.png",
+        "correctAnswer": "Schlapor"
+    },
+    {
+        "flag": "pokemon/Schlaraffel.png",
+        "correctAnswer": "Schlaraffel"
+    },
+    {
+        "flag": "pokemon/Schligda.png",
+        "correctAnswer": "Schligda"
+    },
+    {
+        "flag": "pokemon/Schligdri.png",
+        "correctAnswer": "Schligdri"
+    },
+    {
+        "flag": "pokemon/Schlingking.png",
+        "correctAnswer": "Schlingking"
+    },
+    {
+        "flag": "pokemon/Schlukwech.png",
+        "correctAnswer": "Schlukwech"
+    },
+    {
+        "flag": "pokemon/Schluppuck.png",
+        "correctAnswer": "Schluppuck"
+    },
+    {
+        "flag": "pokemon/Schlurm.png",
+        "correctAnswer": "Schlurm"
+    },
+    {
+        "flag": "pokemon/Schlurp.png",
+        "correctAnswer": "Schlurp"
+    },
+    {
+        "flag": "pokemon/Schlurplek.png",
+        "correctAnswer": "Schlurplek"
+    },
+    {
+        "flag": "pokemon/Schmerbe.png",
+        "correctAnswer": "Schmerbe"
+    },
+    {
+        "flag": "pokemon/Schneckmag.png",
+        "correctAnswer": "Schneckmag"
+    },
+    {
+        "flag": "pokemon/Schneppke.png",
+        "correctAnswer": "Schneppke"
+    },
+    {
+        "flag": "pokemon/Schnuthelm.png",
+        "correctAnswer": "Schnuthelm"
+    },
+    {
+        "flag": "pokemon/Schwalbini.png",
+        "correctAnswer": "Schwalbini"
+    },
+    {
+        "flag": "pokemon/Schwalboss.png",
+        "correctAnswer": "Schwalboss"
+    },
+    {
+        "flag": "pokemon/Scoppel.png",
+        "correctAnswer": "Scoppel"
+    },
+    {
+        "flag": "pokemon/Sedimantur.png",
+        "correctAnswer": "Sedimantur"
+    },
+    {
+        "flag": "pokemon/Sedisal.png",
+        "correctAnswer": "Sedisal"
+    },
+    {
+        "flag": "pokemon/Seedraking.png",
+        "correctAnswer": "Seedraking"
+    },
+    {
+        "flag": "pokemon/Seejong.png",
+        "correctAnswer": "Seejong"
+    },
+    {
+        "flag": "pokemon/Seemon.png",
+        "correctAnswer": "Seemon"
+    },
+    {
+        "flag": "pokemon/Seemops.png",
+        "correctAnswer": "Seemops"
+    },
+    {
+        "flag": "pokemon/Seeper.png",
+        "correctAnswer": "Seeper"
+    },
+    {
+        "flag": "pokemon/Selfe.png",
+        "correctAnswer": "Selfe"
+    },
+    {
+        "flag": "pokemon/Sen-Long.png",
+        "correctAnswer": "Sen-Long"
+    },
+    {
+        "flag": "pokemon/Sengo.png",
+        "correctAnswer": "Sengo"
+    },
+    {
+        "flag": "pokemon/Sensect.png",
+        "correctAnswer": "Sensect"
+    },
+    {
+        "flag": "pokemon/Serpifeu.png",
+        "correctAnswer": "Serpifeu"
+    },
+    {
+        "flag": "pokemon/Serpiroyal.png",
+        "correctAnswer": "Serpiroyal"
+    },
+    {
+        "flag": "pokemon/Servol.png",
+        "correctAnswer": "Servol"
+    },
+    {
+        "flag": "pokemon/Sesokitz.png",
+        "correctAnswer": "Sesokitz"
+    },
+    {
+        "flag": "pokemon/Shardrago.png",
+        "correctAnswer": "Shardrago"
+    },
+    {
+        "flag": "pokemon/Sharfax.png",
+        "correctAnswer": "Sharfax"
+    },
+    {
+        "flag": "pokemon/Shaymin.png",
+        "correctAnswer": "Shaymin"
+    },
+    {
+        "flag": "pokemon/Sheinux.png",
+        "correctAnswer": "Sheinux"
+    },
+    {
+        "flag": "pokemon/Shnebedeck.png",
+        "correctAnswer": "Shnebedeck"
+    },
+    {
+        "flag": "pokemon/Shnurgarst.png",
+        "correctAnswer": "Shnurgarst"
+    },
+    {
+        "flag": "pokemon/Shuppet.png",
+        "correctAnswer": "Shuppet"
+    },
+    {
+        "flag": "pokemon/Siberio.png",
+        "correctAnswer": "Siberio"
+    },
+    {
+        "flag": "pokemon/Sichlor.png",
+        "correctAnswer": "Sichlor"
+    },
+    {
+        "flag": "pokemon/Silembrim.png",
+        "correctAnswer": "Silembrim"
+    },
+    {
+        "flag": "pokemon/Silvarro.png",
+        "correctAnswer": "Silvarro"
+    },
+    {
+        "flag": "pokemon/Simsala.png",
+        "correctAnswer": "Simsala"
+    },
+    {
+        "flag": "pokemon/Sirapfel.png",
+        "correctAnswer": "Sirapfel"
+    },
+    {
+        "flag": "pokemon/Skallyk.png",
+        "correctAnswer": "Skallyk"
+    },
+    {
+        "flag": "pokemon/Skarabaks.png",
+        "correctAnswer": "Skarabaks"
+    },
+    {
+        "flag": "pokemon/Skaraborn.png",
+        "correctAnswer": "Skaraborn"
+    },
+    {
+        "flag": "pokemon/Skelabra.png",
+        "correctAnswer": "Skelabra"
+    },
+    {
+        "flag": "pokemon/Skelokrok.png",
+        "correctAnswer": "Skelokrok"
+    },
+    {
+        "flag": "pokemon/Skorgla.png",
+        "correctAnswer": "Skorgla"
+    },
+    {
+        "flag": "pokemon/Skorgro.png",
+        "correctAnswer": "Skorgro"
+    },
+    {
+        "flag": "pokemon/Skunkapuh.png",
+        "correctAnswer": "Skunkapuh"
+    },
+    {
+        "flag": "pokemon/Skuntank.png",
+        "correctAnswer": "Skuntank"
+    },
+    {
+        "flag": "pokemon/Sleima.png",
+        "correctAnswer": "Sleima"
+    },
+    {
+        "flag": "pokemon/Sleimok.png",
+        "correctAnswer": "Sleimok"
+    },
+    {
+        "flag": "pokemon/Smettbo.png",
+        "correctAnswer": "Smettbo"
+    },
+    {
+        "flag": "pokemon/Smogmog.png",
+        "correctAnswer": "Smogmog"
+    },
+    {
+        "flag": "pokemon/Smogon.png",
+        "correctAnswer": "Smogon"
+    },
+    {
+        "flag": "pokemon/Snibunna.png",
+        "correctAnswer": "Snibunna"
+    },
+    {
+        "flag": "pokemon/Sniebel.png",
+        "correctAnswer": "Sniebel"
+    },
+    {
+        "flag": "pokemon/Snieboss.png",
+        "correctAnswer": "Snieboss"
+    },
+    {
+        "flag": "pokemon/Snobilikat.png",
+        "correctAnswer": "Snobilikat"
+    },
+    {
+        "flag": "pokemon/Snomnom.png",
+        "correctAnswer": "Snomnom"
+    },
+    {
+        "flag": "pokemon/Snubbull.png",
+        "correctAnswer": "Snubbull"
+    },
+    {
+        "flag": "pokemon/Sodachita.png",
+        "correctAnswer": "Sodachita"
+    },
+    {
+        "flag": "pokemon/Sodamak.png",
+        "correctAnswer": "Sodamak"
+    },
+    {
+        "flag": "pokemon/Solgaleo.png",
+        "correctAnswer": "Solgaleo"
+    },
+    {
+        "flag": "pokemon/Somniam.png",
+        "correctAnswer": "Somniam"
+    },
+    {
+        "flag": "pokemon/Somnivora.png",
+        "correctAnswer": "Somnivora"
+    },
+    {
+        "flag": "pokemon/Sonnfel.png",
+        "correctAnswer": "Sonnfel"
+    },
+    {
+        "flag": "pokemon/Sonnflora.png",
+        "correctAnswer": "Sonnflora"
+    },
+    {
+        "flag": "pokemon/Sonnkern.png",
+        "correctAnswer": "Sonnkern"
+    },
+    {
+        "flag": "pokemon/Spinsidias.png",
+        "correctAnswer": "Spinsidias"
+    },
+    {
+        "flag": "pokemon/Spoink.png",
+        "correctAnswer": "Spoink"
+    },
+    {
+        "flag": "pokemon/Sproxi.png",
+        "correctAnswer": "Sproxi"
+    },
+    {
+        "flag": "pokemon/Stahlos.png",
+        "correctAnswer": "Stahlos"
+    },
+    {
+        "flag": "pokemon/Stalobor.png",
+        "correctAnswer": "Stalobor"
+    },
+    {
+        "flag": "pokemon/Staralili.png",
+        "correctAnswer": "Staralili"
+    },
+    {
+        "flag": "pokemon/Staraptor.png",
+        "correctAnswer": "Staraptor"
+    },
+    {
+        "flag": "pokemon/Staravia.png",
+        "correctAnswer": "Staravia"
+    },
+    {
+        "flag": "pokemon/Starmie.png",
+        "correctAnswer": "Starmie"
+    },
+    {
+        "flag": "pokemon/Sterndu.png",
+        "correctAnswer": "Sterndu"
+    },
+    {
+        "flag": "pokemon/Stolloss.png",
+        "correctAnswer": "Stolloss"
+    },
+    {
+        "flag": "pokemon/Stollrak.png",
+        "correctAnswer": "Stollrak"
+    },
+    {
+        "flag": "pokemon/Stollunior.png",
+        "correctAnswer": "Stollunior"
+    },
+    {
+        "flag": "pokemon/Strawickl.png",
+        "correctAnswer": "Strawickl"
+    },
+    {
+        "flag": "pokemon/Strepoli.png",
+        "correctAnswer": "Strepoli"
+    },
+    {
+        "flag": "pokemon/Suelord.png",
+        "correctAnswer": "Suelord"
+    },
+    {
+        "flag": "pokemon/Suicune.png",
+        "correctAnswer": "Suicune"
+    },
+    {
+        "flag": "pokemon/Sumpex.png",
+        "correctAnswer": "Sumpex"
+    },
+    {
+        "flag": "pokemon/Swaroness.png",
+        "correctAnswer": "Swaroness"
+    },
+    {
+        "flag": "pokemon/Symvolara.png",
+        "correctAnswer": "Symvolara"
+    },
+    {
+        "flag": "pokemon/Tafforgita.png",
+        "correctAnswer": "Tafforgita"
+    },
+    {
+        "flag": "pokemon/Tandrak.png",
+        "correctAnswer": "Tandrak"
+    },
+    {
+        "flag": "pokemon/Tangela.png",
+        "correctAnswer": "Tangela"
+    },
+    {
+        "flag": "pokemon/Tangoloss.png",
+        "correctAnswer": "Tangoloss"
+    },
+    {
+        "flag": "pokemon/Tanhel.png",
+        "correctAnswer": "Tanhel"
+    },
+    {
+        "flag": "pokemon/Tannza.png",
+        "correctAnswer": "Tannza"
+    },
+    {
+        "flag": "pokemon/Tarnpignon.png",
+        "correctAnswer": "Tarnpignon"
+    },
+    {
+        "flag": "pokemon/Tarundel.png",
+        "correctAnswer": "Tarundel"
+    },
+    {
+        "flag": "pokemon/Tauboga.png",
+        "correctAnswer": "Tauboga"
+    },
+    {
+        "flag": "pokemon/Tauboss.png",
+        "correctAnswer": "Tauboss"
+    },
+    {
+        "flag": "pokemon/Taubsi.png",
+        "correctAnswer": "Taubsi"
+    },
+    {
+        "flag": "pokemon/Tauros.png",
+        "correctAnswer": "Tauros"
+    },
+    {
+        "flag": "pokemon/Tectass.png",
+        "correctAnswer": "Tectass"
+    },
+    {
+        "flag": "pokemon/Teddiursa.png",
+        "correctAnswer": "Teddiursa"
+    },
+    {
+        "flag": "pokemon/Tengulist.png",
+        "correctAnswer": "Tengulist"
+    },
+    {
+        "flag": "pokemon/Tentacha.png",
+        "correctAnswer": "Tentacha"
+    },
+    {
+        "flag": "pokemon/Tentagra.png",
+        "correctAnswer": "Tentagra"
+    },
+    {
+        "flag": "pokemon/Tentantel.png",
+        "correctAnswer": "Tentantel"
+    },
+    {
+        "flag": "pokemon/Tenterra.png",
+        "correctAnswer": "Tenterra"
+    },
+    {
+        "flag": "pokemon/Tentoxa.png",
+        "correctAnswer": "Tentoxa"
+    },
+    {
+        "flag": "pokemon/Terapagos.png",
+        "correctAnswer": "Terapagos"
+    },
+    {
+        "flag": "pokemon/Terrakium.png",
+        "correctAnswer": "Terrakium"
+    },
+    {
+        "flag": "pokemon/Terribark.png",
+        "correctAnswer": "Terribark"
+    },
+    {
+        "flag": "pokemon/Thanathora.png",
+        "correctAnswer": "Thanathora"
+    },
+    {
+        "flag": "pokemon/Thermopod.png",
+        "correctAnswer": "Thermopod"
+    },
+    {
+        "flag": "pokemon/Tobutz.png",
+        "correctAnswer": "Tobutz"
+    },
+    {
+        "flag": "pokemon/Togedemaru.png",
+        "correctAnswer": "Togedemaru"
+    },
+    {
+        "flag": "pokemon/Togekiss.png",
+        "correctAnswer": "Togekiss"
+    },
+    {
+        "flag": "pokemon/Togepi.png",
+        "correctAnswer": "Togepi"
+    },
+    {
+        "flag": "pokemon/Togetic.png",
+        "correctAnswer": "Togetic"
+    },
+    {
+        "flag": "pokemon/Tohaido.png",
+        "correctAnswer": "Tohaido"
+    },
+    {
+        "flag": "pokemon/Tornupto.png",
+        "correctAnswer": "Tornupto"
+    },
+    {
+        "flag": "pokemon/Tortunator.png",
+        "correctAnswer": "Tortunator"
+    },
+    {
+        "flag": "pokemon/Toxel.png",
+        "correctAnswer": "Toxel"
+    },
+    {
+        "flag": "pokemon/Toxiped.png",
+        "correctAnswer": "Toxiped"
+    },
+    {
+        "flag": "pokemon/Toxiquak.png",
+        "correctAnswer": "Toxiquak"
+    },
+    {
+        "flag": "pokemon/Tragosso.png",
+        "correctAnswer": "Tragosso"
+    },
+    {
+        "flag": "pokemon/Trasla.png",
+        "correctAnswer": "Trasla"
+    },
+    {
+        "flag": "pokemon/Traumato.png",
+        "correctAnswer": "Traumato"
+    },
+    {
+        "flag": "pokemon/Traunfugil.png",
+        "correctAnswer": "Traunfugil"
+    },
+    {
+        "flag": "pokemon/Traunmagil.png",
+        "correctAnswer": "Traunmagil"
+    },
+    {
+        "flag": "pokemon/Trikephalo.png",
+        "correctAnswer": "Trikephalo"
+    },
+    {
+        "flag": "pokemon/Trombork.png",
+        "correctAnswer": "Trombork"
+    },
+    {
+        "flag": "pokemon/Trompeck.png",
+        "correctAnswer": "Trompeck"
+    },
+    {
+        "flag": "pokemon/Tropius.png",
+        "correctAnswer": "Tropius"
+    },
+    {
+        "flag": "pokemon/Tukanon.png",
+        "correctAnswer": "Tukanon"
+    },
+    {
+        "flag": "pokemon/Turtok.png",
+        "correctAnswer": "Turtok"
+    },
+    {
+        "flag": "pokemon/Tuska.png",
+        "correctAnswer": "Tuska"
+    },
+    {
+        "flag": "pokemon/TypNull.png",
+        "correctAnswer": "TypNull"
+    },
+    {
+        "flag": "pokemon/Tyracroc.png",
+        "correctAnswer": "Tyracroc"
+    },
+    {
+        "flag": "pokemon/UHaFnir.png",
+        "correctAnswer": "UHaFnir"
+    },
+    {
+        "flag": "pokemon/Ultrigaria.png",
+        "correctAnswer": "Ultrigaria"
+    },
+    {
+        "flag": "pokemon/Unratütox.png",
+        "correctAnswer": "Unratütox"
+    },
+    {
+        "flag": "pokemon/Urgl.png",
+        "correctAnswer": "Urgl"
+    },
+    {
+        "flag": "pokemon/Ursaluna.png",
+        "correctAnswer": "Ursaluna"
+    },
+    {
+        "flag": "pokemon/Ursaring.png",
+        "correctAnswer": "Ursaring"
+    },
+    {
+        "flag": "pokemon/Vegichita.png",
+        "correctAnswer": "Vegichita"
+    },
+    {
+        "flag": "pokemon/Vegimak.png",
+        "correctAnswer": "Vegimak"
+    },
+    {
+        "flag": "pokemon/Velursi.png",
+        "correctAnswer": "Velursi"
+    },
+    {
+        "flag": "pokemon/Venicro.png",
+        "correctAnswer": "Venicro"
+    },
+    {
+        "flag": "pokemon/Venuflibis.png",
+        "correctAnswer": "Venuflibis"
+    },
+    {
+        "flag": "pokemon/Vesprit.png",
+        "correctAnswer": "Vesprit"
+    },
+    {
+        "flag": "pokemon/Vibrava.png",
+        "correctAnswer": "Vibrava"
+    },
+    {
+        "flag": "pokemon/Victini.png",
+        "correctAnswer": "Victini"
+    },
+    {
+        "flag": "pokemon/Vipitis.png",
+        "correctAnswer": "Vipitis"
+    },
+    {
+        "flag": "pokemon/Viridium.png",
+        "correctAnswer": "Viridium"
+    },
+    {
+        "flag": "pokemon/Viscargot.png",
+        "correctAnswer": "Viscargot"
+    },
+    {
+        "flag": "pokemon/Viscogon.png",
+        "correctAnswer": "Viscogon"
+    },
+    {
+        "flag": "pokemon/Viscora.png",
+        "correctAnswer": "Viscora"
+    },
+    {
+        "flag": "pokemon/Vivillon.png",
+        "correctAnswer": "Vivillon"
+    },
+    {
+        "flag": "pokemon/Volbeat.png",
+        "correctAnswer": "Volbeat"
+    },
+    {
+        "flag": "pokemon/Volcanion.png",
+        "correctAnswer": "Volcanion"
+    },
+    {
+        "flag": "pokemon/Voldi.png",
+        "correctAnswer": "Voldi"
+    },
+    {
+        "flag": "pokemon/Voltenso.png",
+        "correctAnswer": "Voltenso"
+    },
+    {
+        "flag": "pokemon/Voltilamm.png",
+        "correctAnswer": "Voltilamm"
+    },
+    {
+        "flag": "pokemon/Voltobal.png",
+        "correctAnswer": "Voltobal"
+    },
+    {
+        "flag": "pokemon/Voltolos.png",
+        "correctAnswer": "Voltolos"
+    },
+    {
+        "flag": "pokemon/Voltrean.png",
+        "correctAnswer": "Voltrean"
+    },
+    {
+        "flag": "pokemon/Voltrel.png",
+        "correctAnswer": "Voltrel"
+    },
+    {
+        "flag": "pokemon/Voltriant.png",
+        "correctAnswer": "Voltriant"
+    },
+    {
+        "flag": "pokemon/Voltula.png",
+        "correctAnswer": "Voltula"
+    },
+    {
+        "flag": "pokemon/Voluminas.png",
+        "correctAnswer": "Voluminas"
+    },
+    {
+        "flag": "pokemon/Vulnona.png",
+        "correctAnswer": "Vulnona"
+    },
+    {
+        "flag": "pokemon/Vulpix.png",
+        "correctAnswer": "Vulpix"
+    },
+    {
+        "flag": "pokemon/Waaty.png",
+        "correctAnswer": "Waaty"
+    },
+    {
+        "flag": "pokemon/Wablu.png",
+        "correctAnswer": "Wablu"
+    },
+    {
+        "flag": "pokemon/Wadribie.png",
+        "correctAnswer": "Wadribie"
+    },
+    {
+        "flag": "pokemon/Wagong.png",
+        "correctAnswer": "Wagong"
+    },
+    {
+        "flag": "pokemon/Wailmer.png",
+        "correctAnswer": "Wailmer"
+    },
+    {
+        "flag": "pokemon/Wailord.png",
+        "correctAnswer": "Wailord"
+    },
+    {
+        "flag": "pokemon/Walraisa.png",
+        "correctAnswer": "Walraisa"
+    },
+    {
+        "flag": "pokemon/Wampitz.png",
+        "correctAnswer": "Wampitz"
+    },
+    {
+        "flag": "pokemon/Washakwil.png",
+        "correctAnswer": "Washakwil"
+    },
+    {
+        "flag": "pokemon/Wattzapf.png",
+        "correctAnswer": "Wattzapf"
+    },
+    {
+        "flag": "pokemon/Waumboll.png",
+        "correctAnswer": "Waumboll"
+    },
+    {
+        "flag": "pokemon/Waumpel.png",
+        "correctAnswer": "Waumpel"
+    },
+    {
+        "flag": "pokemon/Webarak.png",
+        "correctAnswer": "Webarak"
+    },
+    {
+        "flag": "pokemon/Weherba.png",
+        "correctAnswer": "Weherba"
+    },
+    {
+        "flag": "pokemon/Welsar.png",
+        "correctAnswer": "Welsar"
+    },
+    {
+        "flag": "pokemon/Wie-Shu.png",
+        "correctAnswer": "Wie-Shu"
+    },
+    {
+        "flag": "pokemon/Wielie.png",
+        "correctAnswer": "Wielie"
+    },
+    {
+        "flag": "pokemon/Wiesenior.png",
+        "correctAnswer": "Wiesenior"
+    },
+    {
+        "flag": "pokemon/Wiesor.png",
+        "correctAnswer": "Wiesor"
+    },
+    {
+        "flag": "pokemon/Windewoge.png",
+        "correctAnswer": "Windewoge"
+    },
+    {
+        "flag": "pokemon/Wingull.png",
+        "correctAnswer": "Wingull"
+    },
+    {
+        "flag": "pokemon/Woingenau.png",
+        "correctAnswer": "Woingenau"
+    },
+    {
+        "flag": "pokemon/Wolly.png",
+        "correctAnswer": "Wolly"
+    },
+    {
+        "flag": "pokemon/Wolwerock.png",
+        "correctAnswer": "Wolwerock"
+    },
+    {
+        "flag": "pokemon/Wommel.png",
+        "correctAnswer": "Wommel"
+    },
+    {
+        "flag": "pokemon/Wonneira.png",
+        "correctAnswer": "Wonneira"
+    },
+    {
+        "flag": "pokemon/Wuffels.png",
+        "correctAnswer": "Wuffels"
+    },
+    {
+        "flag": "pokemon/Wulaosu.png",
+        "correctAnswer": "Wulaosu"
+    },
+    {
+        "flag": "pokemon/Wummer.png",
+        "correctAnswer": "Wummer"
+    },
+    {
+        "flag": "pokemon/Wutpilz.png",
+        "correctAnswer": "Wutpilz"
+    },
+    {
+        "flag": "pokemon/Xatu.png",
+        "correctAnswer": "Xatu"
+    },
+    {
+        "flag": "pokemon/Xerneas.png",
+        "correctAnswer": "Xerneas"
+    },
+    {
+        "flag": "pokemon/Yanma.png",
+        "correctAnswer": "Yanma"
+    },
+    {
+        "flag": "pokemon/Yanmega.png",
+        "correctAnswer": "Yanmega"
+    },
+    {
+        "flag": "pokemon/Yorkleff.png",
+        "correctAnswer": "Yorkleff"
+    },
+    {
+        "flag": "pokemon/Yuyu.png",
+        "correctAnswer": "Yuyu"
+    },
+    {
+        "flag": "pokemon/Yveltal.png",
+        "correctAnswer": "Yveltal"
+    },
+    {
+        "flag": "pokemon/Zacian.png",
+        "correctAnswer": "Zacian"
+    },
+    {
+        "flag": "pokemon/Zamazenta.png",
+        "correctAnswer": "Zamazenta"
+    },
+    {
+        "flag": "pokemon/Zapdos.png",
+        "correctAnswer": "Zapdos"
+    },
+    {
+        "flag": "pokemon/Zapplalek.png",
+        "correctAnswer": "Zapplalek"
+    },
+    {
+        "flag": "pokemon/Zapplarang.png",
+        "correctAnswer": "Zapplarang"
+    },
+    {
+        "flag": "pokemon/Zapplardin.png",
+        "correctAnswer": "Zapplardin"
+    },
+    {
+        "flag": "pokemon/Zarude.png",
+        "correctAnswer": "Zarude"
+    },
+    {
+        "flag": "pokemon/Zebritz.png",
+        "correctAnswer": "Zebritz"
+    },
+    {
+        "flag": "pokemon/Zekrom.png",
+        "correctAnswer": "Zekrom"
+    },
+    {
+        "flag": "pokemon/Zeraora.png",
+        "correctAnswer": "Zeraora"
+    },
+    {
+        "flag": "pokemon/Zigzachs.png",
+        "correctAnswer": "Zigzachs"
+    },
+    {
+        "flag": "pokemon/Zirpeise.png",
+        "correctAnswer": "Zirpeise"
+    },
+    {
+        "flag": "pokemon/Zirpurze.png",
+        "correctAnswer": "Zirpurze"
+    },
+    {
+        "flag": "pokemon/Zobiris.png",
+        "correctAnswer": "Zobiris"
+    },
+    {
+        "flag": "pokemon/Zoroark.png",
+        "correctAnswer": "Zoroark"
+    },
+    {
+        "flag": "pokemon/Zorua.png",
+        "correctAnswer": "Zorua"
+    },
+    {
+        "flag": "pokemon/Zubat.png",
+        "correctAnswer": "Zubat"
+    },
+    {
+        "flag": "pokemon/Zurrokex.png",
+        "correctAnswer": "Zurrokex"
+    },
+    {
+        "flag": "pokemon/Zwieps.png",
+        "correctAnswer": "Zwieps"
+    },
+    {
+        "flag": "pokemon/Zwirrfinst.png",
+        "correctAnswer": "Zwirrfinst"
+    },
+    {
+        "flag": "pokemon/Zwirrklop.png",
+        "correctAnswer": "Zwirrklop"
+    },
+    {
+        "flag": "pokemon/Zwirrlicht.png",
+        "correctAnswer": "Zwirrlicht"
+    },
+    {
+        "flag": "pokemon/Zwollock.png",
+        "correctAnswer": "Zwollock"
+    },
+    {
+        "flag": "pokemon/Zwottronin.png",
+        "correctAnswer": "Zwottronin"
+    },
+    {
+        "flag": "pokemon/Zygarde.png",
+        "correctAnswer": "Zygarde"
+    },
+    {
+        "flag": "pokemon/Zytomega.png",
+        "correctAnswer": "Zytomega"
+    },
+	{
+        "flag": "pokemon2/Aalabyss.png",
+        "correctAnswer": "Aalabyss"
+    },
+    {
+        "flag": "pokemon2/Abra.png",
+        "correctAnswer": "Abra"
+    },
+    {
+        "flag": "pokemon2/Absol.png",
+        "correctAnswer": "Absol"
+    },
+    {
+        "flag": "pokemon2/Adebom.png",
+        "correctAnswer": "Adebom"
+    },
+    {
+        "flag": "pokemon2/Admurai.png",
+        "correctAnswer": "Admurai"
+    },
+    {
+        "flag": "pokemon2/Aerodactyl.png",
+        "correctAnswer": "Aerodactyl"
+    },
+    {
+        "flag": "pokemon2/Aeropteryx.png",
+        "correctAnswer": "Aeropteryx"
+    },
+    {
+        "flag": "pokemon2/Affiti.png",
+        "correctAnswer": "Affiti"
+    },
+    {
+        "flag": "pokemon2/Aggrostella.png",
+        "correctAnswer": "Aggrostella"
+    },
+    {
+        "flag": "pokemon2/Agiluza.png",
+        "correctAnswer": "Agiluza"
+    },
+    {
+        "flag": "pokemon2/Agoyon.png",
+        "correctAnswer": "Agoyon"
+    },
+    {
+        "flag": "pokemon2/Akkup.png",
+        "correctAnswer": "Akkup"
+    },
+    {
+        "flag": "pokemon2/Algitt.png",
+        "correctAnswer": "Algitt"
+    },
+    {
+        "flag": "pokemon2/Alpollo.png",
+        "correctAnswer": "Alpollo"
+    },
+    {
+        "flag": "pokemon2/Altaria.png",
+        "correctAnswer": "Altaria"
+    },
+    {
+        "flag": "pokemon2/Amagarga.png",
+        "correctAnswer": "Amagarga"
+    },
+    {
+        "flag": "pokemon2/Amarino.png",
+        "correctAnswer": "Amarino"
+    },
+    {
+        "flag": "pokemon2/Ambidiffel.png",
+        "correctAnswer": "Ambidiffel"
+    },
+    {
+        "flag": "pokemon2/Amfira.png",
+        "correctAnswer": "Amfira"
+    },
+    {
+        "flag": "pokemon2/Amigento.png",
+        "correctAnswer": "Amigento"
+    },
+    {
+        "flag": "pokemon2/Amonitas.png",
+        "correctAnswer": "Amonitas"
+    },
+    {
+        "flag": "pokemon2/Amoroso.png",
+        "correctAnswer": "Amoroso"
+    },
+    {
+        "flag": "pokemon2/Ampharos.png",
+        "correctAnswer": "Ampharos"
+    },
+    {
+        "flag": "pokemon2/Amphizel.png",
+        "correctAnswer": "Amphizel"
+    },
+    {
+        "flag": "pokemon2/Anego.png",
+        "correctAnswer": "Anego"
+    },
+    {
+        "flag": "pokemon2/Anorith.png",
+        "correctAnswer": "Anorith"
+    },
+    {
+        "flag": "pokemon2/Apoquallyp.png",
+        "correctAnswer": "Apoquallyp"
+    },
+    {
+        "flag": "pokemon2/Aquana.png",
+        "correctAnswer": "Aquana"
+    },
+    {
+        "flag": "pokemon2/Aranestro.png",
+        "correctAnswer": "Aranestro"
+    },
+    {
+        "flag": "pokemon2/Araqua.png",
+        "correctAnswer": "Araqua"
+    },
+    {
+        "flag": "pokemon2/Arbok.png",
+        "correctAnswer": "Arbok"
+    },
+    {
+        "flag": "pokemon2/Arboretoss.png",
+        "correctAnswer": "Arboretoss"
+    },
+    {
+        "flag": "pokemon2/Arceus.png",
+        "correctAnswer": "Arceus"
+    },
+    {
+        "flag": "pokemon2/Ariados.png",
+        "correctAnswer": "Ariados"
+    },
+    {
+        "flag": "pokemon2/Arkani.png",
+        "correctAnswer": "Arkani"
+    },
+    {
+        "flag": "pokemon2/Arktilas.png",
+        "correctAnswer": "Arktilas"
+    },
+    {
+        "flag": "pokemon2/Arktip.png",
+        "correctAnswer": "Arktip"
+    },
+    {
+        "flag": "pokemon2/Arktos.png",
+        "correctAnswer": "Arktos"
+    },
+    {
+        "flag": "pokemon2/Armaldo.png",
+        "correctAnswer": "Armaldo"
+    },
+    {
+        "flag": "pokemon2/Austos.png",
+        "correctAnswer": "Austos"
+    },
+    {
+        "flag": "pokemon2/Axantor.png",
+        "correctAnswer": "Axantor"
+    },
+    {
+        "flag": "pokemon2/Azugladis.png",
+        "correctAnswer": "Azugladis"
+    },
+    {
+        "flag": "pokemon2/Azumarill.png",
+        "correctAnswer": "Azumarill"
+    },
+    {
+        "flag": "pokemon2/Azurill.png",
+        "correctAnswer": "Azurill"
+    },
+    {
+        "flag": "pokemon2/Backel.png",
+        "correctAnswer": "Backel"
+    },
+    {
+        "flag": "pokemon2/Bailonda.png",
+        "correctAnswer": "Bailonda"
+    },
+    {
+        "flag": "pokemon2/Baldorfish.png",
+        "correctAnswer": "Baldorfish"
+    },
+    {
+        "flag": "pokemon2/Balgoras.png",
+        "correctAnswer": "Balgoras"
+    },
+    {
+        "flag": "pokemon2/Bamelin.png",
+        "correctAnswer": "Bamelin"
+    },
+    {
+        "flag": "pokemon2/Bandelby.png",
+        "correctAnswer": "Bandelby"
+    },
+    {
+        "flag": "pokemon2/Banette.png",
+        "correctAnswer": "Banette"
+    },
+    {
+        "flag": "pokemon2/Baojian.png",
+        "correctAnswer": "Baojian"
+    },
+    {
+        "flag": "pokemon2/Barrakiefa.png",
+        "correctAnswer": "Barrakiefa"
+    },
+    {
+        "flag": "pokemon2/Barrikadax.png",
+        "correctAnswer": "Barrikadax"
+    },
+    {
+        "flag": "pokemon2/Barschuft.png",
+        "correctAnswer": "Barschuft"
+    },
+    {
+        "flag": "pokemon2/Barschwa.png",
+        "correctAnswer": "Barschwa"
+    },
+    {
+        "flag": "pokemon2/Bauz.png",
+        "correctAnswer": "Bauz"
+    },
+    {
+        "flag": "pokemon2/Beatori.png",
+        "correctAnswer": "Beatori"
+    },
+    {
+        "flag": "pokemon2/Bellektro.png",
+        "correctAnswer": "Bellektro"
+    },
+    {
+        "flag": "pokemon2/Benesaru.png",
+        "correctAnswer": "Benesaru"
+    },
+    {
+        "flag": "pokemon2/Bibor.png",
+        "correctAnswer": "Bibor"
+    },
+    {
+        "flag": "pokemon2/Bidifas.png",
+        "correctAnswer": "Bidifas"
+    },
+    {
+        "flag": "pokemon2/Bidiza.png",
+        "correctAnswer": "Bidiza"
+    },
+    {
+        "flag": "pokemon2/Bisaflor.png",
+        "correctAnswer": "Bisaflor"
+    },
+    {
+        "flag": "pokemon2/Bisaknosp.png",
+        "correctAnswer": "Bisaknosp"
+    },
+    {
+        "flag": "pokemon2/Bisasam.png",
+        "correctAnswer": "Bisasam"
+    },
+    {
+        "flag": "pokemon2/Bisofank.png",
+        "correctAnswer": "Bisofank"
+    },
+    {
+        "flag": "pokemon2/Bissbark.png",
+        "correctAnswer": "Bissbark"
+    },
+    {
+        "flag": "pokemon2/Bithora.png",
+        "correctAnswer": "Bithora"
+    },
+    {
+        "flag": "pokemon2/Blanas.png",
+        "correctAnswer": "Blanas"
+    },
+    {
+        "flag": "pokemon2/Blipp.png",
+        "correctAnswer": "Blipp"
+    },
+    {
+        "flag": "pokemon2/Blitza.png",
+        "correctAnswer": "Blitza"
+    },
+    {
+        "flag": "pokemon2/Blubella.png",
+        "correctAnswer": "Blubella"
+    },
+    {
+        "flag": "pokemon2/Bluzuk.png",
+        "correctAnswer": "Bluzuk"
+    },
+    {
+        "flag": "pokemon2/Bojelin.png",
+        "correctAnswer": "Bojelin"
+    },
+    {
+        "flag": "pokemon2/Bollterus.png",
+        "correctAnswer": "Bollterus"
+    },
+    {
+        "flag": "pokemon2/Boninu.png",
+        "correctAnswer": "Boninu"
+    },
+    {
+        "flag": "pokemon2/Boreos.png",
+        "correctAnswer": "Boreos"
+    },
+    {
+        "flag": "pokemon2/Botogel.png",
+        "correctAnswer": "Botogel"
+    },
+    {
+        "flag": "pokemon2/Branawarz.png",
+        "correctAnswer": "Branawarz"
+    },
+    {
+        "flag": "pokemon2/Briduradon.png",
+        "correctAnswer": "Briduradon"
+    },
+    {
+        "flag": "pokemon2/Brigaron.png",
+        "correctAnswer": "Brigaron"
+    },
+    {
+        "flag": "pokemon2/Brimano.png",
+        "correctAnswer": "Brimano"
+    },
+    {
+        "flag": "pokemon2/Brimova.png",
+        "correctAnswer": "Brimova"
+    },
+    {
+        "flag": "pokemon2/Britzigel.png",
+        "correctAnswer": "Britzigel"
+    },
+    {
+        "flag": "pokemon2/Brockoloss.png",
+        "correctAnswer": "Brockoloss"
+    },
+    {
+        "flag": "pokemon2/Bronzel.png",
+        "correctAnswer": "Bronzel"
+    },
+    {
+        "flag": "pokemon2/Bronzong.png",
+        "correctAnswer": "Bronzong"
+    },
+    {
+        "flag": "pokemon2/Brutalanda.png",
+        "correctAnswer": "Brutalanda"
+    },
+    {
+        "flag": "pokemon2/Brüllschweif.png",
+        "correctAnswer": "Brüllschweif"
+    },
+    {
+        "flag": "pokemon2/Bubungus.png",
+        "correctAnswer": "Bubungus"
+    },
+    {
+        "flag": "pokemon2/Bummelz.png",
+        "correctAnswer": "Bummelz"
+    },
+    {
+        "flag": "pokemon2/Burmadame.png",
+        "correctAnswer": "Burmadame"
+    },
+    {
+        "flag": "pokemon2/Burmy.png",
+        "correctAnswer": "Burmy"
+    },
+    {
+        "flag": "pokemon2/Bähmon.png",
+        "correctAnswer": "Bähmon"
+    },
+    {
+        "flag": "pokemon2/Caesurio.png",
+        "correctAnswer": "Caesurio"
+    },
+    {
+        "flag": "pokemon2/Calamanero.png",
+        "correctAnswer": "Calamanero"
+    },
+    {
+        "flag": "pokemon2/Camaub.png",
+        "correctAnswer": "Camaub"
+    },
+    {
+        "flag": "pokemon2/Camerupt.png",
+        "correctAnswer": "Camerupt"
+    },
+    {
+        "flag": "pokemon2/Castellith.png",
+        "correctAnswer": "Castellith"
+    },
+    {
+        "flag": "pokemon2/Cavalanzas.png",
+        "correctAnswer": "Cavalanzas"
+    },
+    {
+        "flag": "pokemon2/Celebi.png",
+        "correctAnswer": "Celebi"
+    },
+    {
+        "flag": "pokemon2/Cerapendra.png",
+        "correctAnswer": "Cerapendra"
+    },
+    {
+        "flag": "pokemon2/Chaneira.png",
+        "correctAnswer": "Chaneira"
+    },
+    {
+        "flag": "pokemon2/Charmian.png",
+        "correctAnswer": "Charmian"
+    },
+    {
+        "flag": "pokemon2/Chelast.png",
+        "correctAnswer": "Chelast"
+    },
+    {
+        "flag": "pokemon2/Chelcarain.png",
+        "correctAnswer": "Chelcarain"
+    },
+    {
+        "flag": "pokemon2/Chelterrar.png",
+        "correctAnswer": "Chelterrar"
+    },
+    {
+        "flag": "pokemon2/Chevrumm.png",
+        "correctAnswer": "Chevrumm"
+    },
+    {
+        "flag": "pokemon2/Chilingel.png",
+        "correctAnswer": "Chilingel"
+    },
+    {
+        "flag": "pokemon2/Chillabell.png",
+        "correctAnswer": "Chillabell"
+    },
+    {
+        "flag": "pokemon2/Chimpep.png",
+        "correctAnswer": "Chimpep"
+    },
+    {
+        "flag": "pokemon2/Chimstix.png",
+        "correctAnswer": "Chimstix"
+    },
+    {
+        "flag": "pokemon2/Chongjian.png",
+        "correctAnswer": "Chongjian"
+    },
+    {
+        "flag": "pokemon2/Choreogel.png",
+        "correctAnswer": "Choreogel"
+    },
+    {
+        "flag": "pokemon2/Clavion.png",
+        "correctAnswer": "Clavion"
+    },
+    {
+        "flag": "pokemon2/Coiffwaff.png",
+        "correctAnswer": "Coiffwaff"
+    },
+    {
+        "flag": "pokemon2/Colossand.png",
+        "correctAnswer": "Colossand"
+    },
+    {
+        "flag": "pokemon2/Corasonn.png",
+        "correctAnswer": "Corasonn"
+    },
+    {
+        "flag": "pokemon2/Coronospa.png",
+        "correctAnswer": "Coronospa"
+    },
+    {
+        "flag": "pokemon2/Cosmog.png",
+        "correctAnswer": "Cosmog"
+    },
+    {
+        "flag": "pokemon2/Cosmovum.png",
+        "correctAnswer": "Cosmovum"
+    },
+    {
+        "flag": "pokemon2/Cottini.png",
+        "correctAnswer": "Cottini"
+    },
+    {
+        "flag": "pokemon2/Cottomi.png",
+        "correctAnswer": "Cottomi"
+    },
+    {
+        "flag": "pokemon2/Cresselia.png",
+        "correctAnswer": "Cresselia"
+    },
+    {
+        "flag": "pokemon2/Crimanzo.png",
+        "correctAnswer": "Crimanzo"
+    },
+    {
+        "flag": "pokemon2/Cryospino.png",
+        "correctAnswer": "Cryospino"
+    },
+    {
+        "flag": "pokemon2/Cupidos.png",
+        "correctAnswer": "Cupidos"
+    },
+    {
+        "flag": "pokemon2/Curelei.png",
+        "correctAnswer": "Curelei"
+    },
+    {
+        "flag": "pokemon2/Dakuma.png",
+        "correctAnswer": "Dakuma"
+    },
+    {
+        "flag": "pokemon2/Damhirplex.png",
+        "correctAnswer": "Damhirplex"
+    },
+    {
+        "flag": "pokemon2/Damythir.png",
+        "correctAnswer": "Damythir"
+    },
+    {
+        "flag": "pokemon2/Darkrai.png",
+        "correctAnswer": "Darkrai"
+    },
+    {
+        "flag": "pokemon2/Dartignis.png",
+        "correctAnswer": "Dartignis"
+    },
+    {
+        "flag": "pokemon2/Dartiri.png",
+        "correctAnswer": "Dartiri"
+    },
+    {
+        "flag": "pokemon2/Dedenne.png",
+        "correctAnswer": "Dedenne"
+    },
+    {
+        "flag": "pokemon2/Delfinator.png",
+        "correctAnswer": "Delfinator"
+    },
+    {
+        "flag": "pokemon2/Demeteros.png",
+        "correctAnswer": "Demeteros"
+    },
+    {
+        "flag": "pokemon2/Deoxys.png",
+        "correctAnswer": "Deoxys"
+    },
+    {
+        "flag": "pokemon2/Deponitox.png",
+        "correctAnswer": "Deponitox"
+    },
+    {
+        "flag": "pokemon2/Despotar.png",
+        "correctAnswer": "Despotar"
+    },
+    {
+        "flag": "pokemon2/Dialga.png",
+        "correctAnswer": "Dialga"
+    },
+    {
+        "flag": "pokemon2/Diancie.png",
+        "correctAnswer": "Diancie"
+    },
+    {
+        "flag": "pokemon2/Digda.png",
+        "correctAnswer": "Digda"
+    },
+    {
+        "flag": "pokemon2/Digdri.png",
+        "correctAnswer": "Digdri"
+    },
+    {
+        "flag": "pokemon2/Dinglu.png",
+        "correctAnswer": "Dinglu"
+    },
+    {
+        "flag": "pokemon2/Ditto.png",
+        "correctAnswer": "Ditto"
+    },
+    {
+        "flag": "pokemon2/Dodri.png",
+        "correctAnswer": "Dodri"
+    },
+    {
+        "flag": "pokemon2/Dodu.png",
+        "correctAnswer": "Dodu"
+    },
+    {
+        "flag": "pokemon2/Donarion.png",
+        "correctAnswer": "Donarion"
+    },
+    {
+        "flag": "pokemon2/Donnersichel.png",
+        "correctAnswer": "Donnersichel"
+    },
+    {
+        "flag": "pokemon2/Donphan.png",
+        "correctAnswer": "Donphan"
+    },
+    {
+        "flag": "pokemon2/Dragonir.png",
+        "correctAnswer": "Dragonir"
+    },
+    {
+        "flag": "pokemon2/Dragoran.png",
+        "correctAnswer": "Dragoran"
+    },
+    {
+        "flag": "pokemon2/Drapfel.png",
+        "correctAnswer": "Drapfel"
+    },
+    {
+        "flag": "pokemon2/Draschel.png",
+        "correctAnswer": "Draschel"
+    },
+    {
+        "flag": "pokemon2/Dratini.png",
+        "correctAnswer": "Dratini"
+    },
+    {
+        "flag": "pokemon2/Dressella.png",
+        "correctAnswer": "Dressella"
+    },
+    {
+        "flag": "pokemon2/Driftlon.png",
+        "correctAnswer": "Driftlon"
+    },
+    {
+        "flag": "pokemon2/Drifzepeli.png",
+        "correctAnswer": "Drifzepeli"
+    },
+    {
+        "flag": "pokemon2/Duflor.png",
+        "correctAnswer": "Duflor"
+    },
+    {
+        "flag": "pokemon2/Dummimisel.png",
+        "correctAnswer": "Dummimisel"
+    },
+    {
+        "flag": "pokemon2/Dummisel.png",
+        "correctAnswer": "Dummisel"
+    },
+    {
+        "flag": "pokemon2/Duodino.png",
+        "correctAnswer": "Duodino"
+    },
+    {
+        "flag": "pokemon2/Duokles.png",
+        "correctAnswer": "Duokles"
+    },
+    {
+        "flag": "pokemon2/Duraludon.png",
+        "correctAnswer": "Duraludon"
+    },
+    {
+        "flag": "pokemon2/Durengard.png",
+        "correctAnswer": "Durengard"
+    },
+    {
+        "flag": "pokemon2/Dusselgurr.png",
+        "correctAnswer": "Dusselgurr"
+    },
+    {
+        "flag": "pokemon2/Echnatoll.png",
+        "correctAnswer": "Echnatoll"
+    },
+    {
+        "flag": "pokemon2/Efoserp.png",
+        "correctAnswer": "Efoserp"
+    },
+    {
+        "flag": "pokemon2/Eguana.png",
+        "correctAnswer": "Eguana"
+    },
+    {
+        "flag": "pokemon2/Eisenblatt.png",
+        "correctAnswer": "Eisenblatt"
+    },
+    {
+        "flag": "pokemon2/Eisenbündel.png",
+        "correctAnswer": "Eisenbündel"
+    },
+    {
+        "flag": "pokemon2/Eisendorn.png",
+        "correctAnswer": "Eisendorn"
+    },
+    {
+        "flag": "pokemon2/Eisenfalter.png",
+        "correctAnswer": "Eisenfalter"
+    },
+    {
+        "flag": "pokemon2/Eisenfels.png",
+        "correctAnswer": "Eisenfels"
+    },
+    {
+        "flag": "pokemon2/Eisenhals.png",
+        "correctAnswer": "Eisenhals"
+    },
+    {
+        "flag": "pokemon2/Eisenhand.png",
+        "correctAnswer": "Eisenhand"
+    },
+    {
+        "flag": "pokemon2/Eisenhaupt.png",
+        "correctAnswer": "Eisenhaupt"
+    },
+    {
+        "flag": "pokemon2/Eisenkrieger.png",
+        "correctAnswer": "Eisenkrieger"
+    },
+    {
+        "flag": "pokemon2/Eisenrad.png",
+        "correctAnswer": "Eisenrad"
+    },
+    {
+        "flag": "pokemon2/Elekid.png",
+        "correctAnswer": "Elekid"
+    },
+    {
+        "flag": "pokemon2/Elektek.png",
+        "correctAnswer": "Elektek"
+    },
+    {
+        "flag": "pokemon2/Elevoltek.png",
+        "correctAnswer": "Elevoltek"
+    },
+    {
+        "flag": "pokemon2/Elezard.png",
+        "correctAnswer": "Elezard"
+    },
+    {
+        "flag": "pokemon2/Elezeba.png",
+        "correctAnswer": "Elezeba"
+    },
+    {
+        "flag": "pokemon2/Elfun.png",
+        "correctAnswer": "Elfun"
+    },
+    {
+        "flag": "pokemon2/Emolga.png",
+        "correctAnswer": "Emolga"
+    },
+    {
+        "flag": "pokemon2/Endivie.png",
+        "correctAnswer": "Endivie"
+    },
+    {
+        "flag": "pokemon2/Endynalos.png",
+        "correctAnswer": "Endynalos"
+    },
+    {
+        "flag": "pokemon2/Eneco.png",
+        "correctAnswer": "Eneco"
+    },
+    {
+        "flag": "pokemon2/Enekoro.png",
+        "correctAnswer": "Enekoro"
+    },
+    {
+        "flag": "pokemon2/Entei.png",
+        "correctAnswer": "Entei"
+    },
+    {
+        "flag": "pokemon2/Enton.png",
+        "correctAnswer": "Enton"
+    },
+    {
+        "flag": "pokemon2/Entoron.png",
+        "correctAnswer": "Entoron"
+    },
+    {
+        "flag": "pokemon2/Epitaff.png",
+        "correctAnswer": "Epitaff"
+    },
+    {
+        "flag": "pokemon2/Espinodon.png",
+        "correctAnswer": "Espinodon"
+    },
+    {
+        "flag": "pokemon2/Evoli.png",
+        "correctAnswer": "Evoli"
+    },
+    {
+        "flag": "pokemon2/Famieps.png",
+        "correctAnswer": "Famieps"
+    },
+    {
+        "flag": "pokemon2/Farbeagle.png",
+        "correctAnswer": "Farbeagle"
+    },
+    {
+        "flag": "pokemon2/Farigiraf.png",
+        "correctAnswer": "Farigiraf"
+    },
+    {
+        "flag": "pokemon2/Fasasnob.png",
+        "correctAnswer": "Fasasnob"
+    },
+    {
+        "flag": "pokemon2/Fatalitcha.png",
+        "correctAnswer": "Fatalitcha"
+    },
+    {
+        "flag": "pokemon2/Fatalitee.png",
+        "correctAnswer": "Fatalitee"
+    },
+    {
+        "flag": "pokemon2/Feelinara.png",
+        "correctAnswer": "Feelinara"
+    },
+    {
+        "flag": "pokemon2/Felilou.png",
+        "correctAnswer": "Felilou"
+    },
+    {
+        "flag": "pokemon2/Felino.png",
+        "correctAnswer": "Felino"
+    },
+    {
+        "flag": "pokemon2/Feliospa.png",
+        "correctAnswer": "Feliospa"
+    },
+    {
+        "flag": "pokemon2/Felori.png",
+        "correctAnswer": "Felori"
+    },
+    {
+        "flag": "pokemon2/Fennexis.png",
+        "correctAnswer": "Fennexis"
+    },
+    {
+        "flag": "pokemon2/Ferkokel.png",
+        "correctAnswer": "Ferkokel"
+    },
+    {
+        "flag": "pokemon2/Ferkuli.png",
+        "correctAnswer": "Ferkuli"
+    },
+    {
+        "flag": "pokemon2/Fermicula.png",
+        "correctAnswer": "Fermicula"
+    },
+    {
+        "flag": "pokemon2/Feurigel.png",
+        "correctAnswer": "Feurigel"
+    },
+    {
+        "flag": "pokemon2/Fiaro.png",
+        "correctAnswer": "Fiaro"
+    },
+    {
+        "flag": "pokemon2/Fiffyen.png",
+        "correctAnswer": "Fiffyen"
+    },
+    {
+        "flag": "pokemon2/Finneon.png",
+        "correctAnswer": "Finneon"
+    },
+    {
+        "flag": "pokemon2/Firnontor.png",
+        "correctAnswer": "Firnontor"
+    },
+    {
+        "flag": "pokemon2/Flabébé.png",
+        "correctAnswer": "Flabébé"
+    },
+    {
+        "flag": "pokemon2/Flamara.png",
+        "correctAnswer": "Flamara"
+    },
+    {
+        "flag": "pokemon2/Flambirex.png",
+        "correctAnswer": "Flambirex"
+    },
+    {
+        "flag": "pokemon2/Flamiau.png",
+        "correctAnswer": "Flamiau"
+    },
+    {
+        "flag": "pokemon2/Flaminkno.png",
+        "correctAnswer": "Flaminkno"
+    },
+    {
+        "flag": "pokemon2/Flampion.png",
+        "correctAnswer": "Flampion"
+    },
+    {
+        "flag": "pokemon2/Flampivian.png",
+        "correctAnswer": "Flampivian"
+    },
+    {
+        "flag": "pokemon2/Flaniwal.png",
+        "correctAnswer": "Flaniwal"
+    },
+    {
+        "flag": "pokemon2/Flapteryx.png",
+        "correctAnswer": "Flapteryx"
+    },
+    {
+        "flag": "pokemon2/Flatterhaar.png",
+        "correctAnswer": "Flatterhaar"
+    },
+    {
+        "flag": "pokemon2/Flattutu.png",
+        "correctAnswer": "Flattutu"
+    },
+    {
+        "flag": "pokemon2/Flauschling.png",
+        "correctAnswer": "Flauschling"
+    },
+    {
+        "flag": "pokemon2/Flegmon.png",
+        "correctAnswer": "Flegmon"
+    },
+    {
+        "flag": "pokemon2/Fleknoil.png",
+        "correctAnswer": "Fleknoil"
+    },
+    {
+        "flag": "pokemon2/Flemmli.png",
+        "correctAnswer": "Flemmli"
+    },
+    {
+        "flag": "pokemon2/Fletiamo.png",
+        "correctAnswer": "Fletiamo"
+    },
+    {
+        "flag": "pokemon2/Floette.png",
+        "correctAnswer": "Floette"
+    },
+    {
+        "flag": "pokemon2/Floink.png",
+        "correctAnswer": "Floink"
+    },
+    {
+        "flag": "pokemon2/Florges.png",
+        "correctAnswer": "Florges"
+    },
+    {
+        "flag": "pokemon2/Fluffeluff.png",
+        "correctAnswer": "Fluffeluff"
+    },
+    {
+        "flag": "pokemon2/Flunkifer.png",
+        "correctAnswer": "Flunkifer"
+    },
+    {
+        "flag": "pokemon2/Flunschlik.png",
+        "correctAnswer": "Flunschlik"
+    },
+    {
+        "flag": "pokemon2/Flurmel.png",
+        "correctAnswer": "Flurmel"
+    },
+    {
+        "flag": "pokemon2/Folikon.png",
+        "correctAnswer": "Folikon"
+    },
+    {
+        "flag": "pokemon2/Folipurba.png",
+        "correctAnswer": "Folipurba"
+    },
+    {
+        "flag": "pokemon2/Forgita.png",
+        "correctAnswer": "Forgita"
+    },
+    {
+        "flag": "pokemon2/Formeo.png",
+        "correctAnswer": "Formeo"
+    },
+    {
+        "flag": "pokemon2/Forstellka.png",
+        "correctAnswer": "Forstellka"
+    },
+    {
+        "flag": "pokemon2/Fragrunz.png",
+        "correctAnswer": "Fragrunz"
+    },
+    {
+        "flag": "pokemon2/Friedwuff.png",
+        "correctAnswer": "Friedwuff"
+    },
+    {
+        "flag": "pokemon2/Frigometri.png",
+        "correctAnswer": "Frigometri"
+    },
+    {
+        "flag": "pokemon2/Frizelbliz.png",
+        "correctAnswer": "Frizelbliz"
+    },
+    {
+        "flag": "pokemon2/Frosdedje.png",
+        "correctAnswer": "Frosdedje"
+    },
+    {
+        "flag": "pokemon2/Frospino.png",
+        "correctAnswer": "Frospino"
+    },
+    {
+        "flag": "pokemon2/Froxy.png",
+        "correctAnswer": "Froxy"
+    },
+    {
+        "flag": "pokemon2/Frubaila.png",
+        "correctAnswer": "Frubaila"
+    },
+    {
+        "flag": "pokemon2/Frubberl.png",
+        "correctAnswer": "Frubberl"
+    },
+    {
+        "flag": "pokemon2/Fruyal.png",
+        "correctAnswer": "Fruyal"
+    },
+    {
+        "flag": "pokemon2/Fuegro.png",
+        "correctAnswer": "Fuegro"
+    },
+    {
+        "flag": "pokemon2/Fuentente.png",
+        "correctAnswer": "Fuentente"
+    },
+    {
+        "flag": "pokemon2/Fukano.png",
+        "correctAnswer": "Fukano"
+    },
+    {
+        "flag": "pokemon2/Furienblitz.png",
+        "correctAnswer": "Furienblitz"
+    },
+    {
+        "flag": "pokemon2/Furnifraß.png",
+        "correctAnswer": "Furnifraß"
+    },
+    {
+        "flag": "pokemon2/Fynx.png",
+        "correctAnswer": "Fynx"
+    },
+    {
+        "flag": "pokemon2/eF-eM.png",
+        "correctAnswer": "eF-eM"
     }
 ]
