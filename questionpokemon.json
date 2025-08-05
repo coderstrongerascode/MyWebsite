@@ -1,18 +1,18 @@
 [
 {
-        "flag": "/workspaces/MyWebsite/resources/pokemon2/Aalabyss.png",
-        "correctAnswer": "Galagladi"
-},
-{
-        "flag": "/workspaces/MyWebsite/resources/pokemon2/Aalabyss.png",
-        "correctAnswer": "Galagladi"
-},
-{
-        "flag": "/workspaces/MyWebsite/resources/pokemon2/Aalabyss.png",
-        "correctAnswer": "Galagladi"
-},
-{
-        "flag": "/workspaces/MyWebsite/resources/pokemon2/Aalabyss.png",
-        "correctAnswer": "Galagladi"
-}
+        "flag": "pokemon/Ganovil.png",
+        "correctAnswer": "Ganovil"
+    },
+    {
+        "flag": "pokemon/Garados.png",
+        "correctAnswer": "Garados"
+    },
+    {
+        "flag": "pokemon/Garstella.png",
+        "correctAnswer": "Garstella"
+    },
+    {
+        "flag": "pokemon/Gastrodon.png",
+        "correctAnswer": "Gastrodon"
+    }
 ]
