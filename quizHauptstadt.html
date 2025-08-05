@@ -1,0 +1,48 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz: Haupstädte erraten</title>
+    <link rel="stylesheet" href="styles/stylesQuizHauptstadt.css">
+	<link rel="icon" href="IconDice4.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Hauptstädte raten</h1>
+		<span class="menu-icon" onclick="toggleNav()">&#9776;</span>
+    </header>
+    <nav id="mySidenav" class="sidenav">
+        <a href="index.html">Home</a>
+        <a href="dice.html">Würfelseite</a>
+        <a href="random.html">Zufallszahlseite</a>
+        <a href="javascript:void(0)" onclick="toggleQuizMenu()">Alle Quizze <span class="arrow">&#9662;</span></a>
+        <div id="quizMenu" class="submenu">
+            <a href="quizHauptstadt.html">  Hauptstädte erraten</a>
+            <a href="quizFlagge.html">  Land erraten, aus Flagge</a>
+        </div>
+		<a href="quizHauptstadt.html">Hauptstädte erraten</a>
+        <a href="quizFlagge.html">Land erraten, aus Flagge</a>
+        <a href="hangman.html">Hangman</a>
+    </nav>
+    <main>
+        
+        <p>Hier können Sie Hauptstädte erraten.</p>
+
+		<h2>Zur Würfelseite<h2>
+		<a href="dice.html">Würfelseite</a>
+		<h2>Zur Zufallszahlenseite<h2>
+		<a href="random.html">Zufallszahlseite</a>
+		 <div class="container">
+        <h1>Quiz App</h1>
+        <div id="question-container">
+            <p id="question"></p>
+            <div id="answer-buttons" class="btn-container"></div>
+        </div>
+        <button id="next-button" class="btn hide">Nächste Frage</button>
+    </div>
+    </main>
+    <script src="js/scriptQuizHauptstadt.js"></script>
+</body>
+</html>

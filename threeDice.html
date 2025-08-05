@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 Dice</title>
+    <link rel="stylesheet" href="styles/stylesThreeDice.css">
+    <link rel="icon" href="IconDice4.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1 id="pageTitle">Meldungen aus dem Alltag eines Programmierers</h1>
+        <span class="menu-icon" onclick="toggleNav()">&#9776;</span>
+        <div class="language-selector">
+            <label for="languageSelector" id="languageLabel">Sprache auswählen:</label>
+            <select id="languageSelector">
+                <option value="en">English</option>
+                <option value="de">Deutsch</option>
+            </select>
+    </header>
+    <nav id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html" id="homeLink">Home</a>
+        <a href="javascript:void(0)" onclick="toggleDiceMenuLink()"> <label id="dicepage"></label>
+    <span class="arrow">&#9662;</span>
+</a>
+        <div id="diceMenu" class="submenu">
+            <a href="dice.html" id="diceLink">Würfelseite</a>
+            <a href="threeDice.html" id="threediceLink">3 Reinfolge bestimmen</a>
+        </div>
+        <a href="dice.html" id="diceLink">Würfelseite</a>
+        <a href="random.html" id="randomLink">Zufallszahlseite</a>
+        <a href="javascript:void(0)" onclick="toggleQuizMenu()"> <label id="allQuizzesLink">Alle Quizze</label> <span class="arrow">&#9662;</span></a>
+        <div id="quizMenu" class="submenu">
+            <a href="quizHauptstadt.html" id="quizCapitalLink">Hauptstädte erraten</a>
+            <a href="quizFlagge.html" id="quizFlagLink">Land erraten, aus Flagge</a>
+        </div>
+        <a href="hangman.html" id="hangmanLink">Hangman</a>
+        <a href="quizHauptstadt.html" id="quizCapitalLink">Hauptstädte erraten</a>
+        <a href="quizFlagge.html" id="quizFlagLink">Land erraten, aus Flagge</a>
+        <a href="hangman.html" id="hangmanLink">Hangman</a>
+    </nav>
+    <main>
+
+
+
+    <div id="dice-container">
+            <div class="dice" id="dice">
+                <div class="face one">
+                    <div id="face1-symbol1"></div>
+                    <div id="face1-symbol2"></div>
+                    <div id="face1-symbol3"></div>
+                </div>
+                <div class="face two">
+                    <div id="face2-symbol1"></div>
+                    <div id="face2-symbol2"></div>
+                    <div id="face2-symbol3"></div>
+                </div>
+                <div class="face three">
+                    <div id="face3-symbol1"></div>
+                    <div id="face3-symbol2"></div>
+                    <div id="face3-symbol3"></div>
+                </div>
+                <div class="face four">
+                    <div id="face4-symbol1"></div>
+                    <div id="face4-symbol2"></div>
+                    <div id="face4-symbol3"></div>
+                </div>
+                <div class="face five">
+                    <div id="face5-symbol1"></div>
+                    <div id="face5-symbol2"></div>
+                    <div id="face5-symbol3"></div>
+                </div>
+                <div class="face six">
+                    <div id="face6-symbol1"></div>
+                    <div id="face6-symbol2"></div>
+                    <div id="face6-symbol3"></div>
+                </div>
+
+             
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+       
+        <div class="inputs">
+            <input type="text" id="symbol1" placeholder="Symbol 1"> <a id="symbol1label"></a>
+            <input type="text" id="symbol2" placeholder="Symbol 2"> <a id="symbol2label"></a>
+            <input type="text" id="symbol3" placeholder="Symbol 3"> <a id="symbol3label"></a>
+        </div>
+        <div>
+            <input type="checkbox" id="showmodaldicecheckbox"> <a id="showmodaldicecheckboxlabel"></a>
+        </div>
+
+     <button id="rollDiceButton" onclick="rollDice()">Würfeln</button>
+</main>
+
+<!-- Modal für den Würfel -->
+<div id="diceModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2 id="modalTitle">Würfelergebnis</h2>
+        <div id="dice-modal-container">
+                <!-- Den Würfel im Modal einfügen -->
+                <div class="dice" id="modal-dice">
+                    <!-- Jede Seite des Würfels -->
+                    <div class="face one">
+                        <div class="pip pip1"></div>
+                    </div>
+                    <div class="face two">
+                        <div class="pip pip1"></div>
+                        <div class="pip pip2"></div>
+                    </div>
+                    <div class="face three">
+                        <div class="pip pip1"></div>
+                        <div class="pip pip2"></div>
+                        <div class="pip pip3"></div>
+                    </div>
+                    <div class="face four">
+                        <div class="pip pip1"></div>
+                        <div class="pip pip2"></div>
+                        <div class="pip pip3"></div>
+                        <div class="pip pip4"></div>
+                    </div>
+                    <div class="face five">
+                        <div class="pip pip1"></div>
+                        <div class="pip pip2"></div>
+                        <div class="pip pip3"></div>
+                        <div class="pip pip4"></div>
+                        <div class="pip pip5"></div>
+                    </div>
+                    <div class="face six">
+                        <div class="pip pip1"></div>
+                        <div class="pip pip2"></div>
+                        <div class="pip pip3"></div>
+                        <div class="pip pip4"></div>
+                        <div class="pip pip5"></div>
+                        <div class="pip pip6"></div>
+                    </div>
+                </div>
+            </div>
+            <button class="ok-button" id="modalOkButton" onclick="closeModal()">OK</button>
+        </div>
+    </div>
+    <script src="js/scriptThreeDice.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Land aufgrund Flagge erraten</title>
+    <link rel="stylesheet" href="styles/stylesQuizPokemon.css">
+	<link rel="icon" href="IconDice4.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Quiz Land aus Flagge</h1>
+        <span class="menu-icon" onclick="toggleNav()">&#9776;</span>
+    </header>
+    <nav id="mySidenav" class="sidenav">
+		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Home</a>
+        <a href="dice.html">Würfelseite</a>
+        <a href="random.html">Zufallszahlseite</a>
+        <a href="javascript:void(0)" onclick="toggleQuizMenu()">Alle Quizze <span class="arrow">&#9662;</span></a>
+        <div id="quizMenu" class="submenu">
+            <a href="quizHauptstadt.html">  Hauptstädte erraten</a>
+            <a href="quizFlagge.html">  Land erraten, aus Flagge</a>
+            <a href="quizPokemon.html">  Pokemon raten</a>
+        </div>
+		<a href="quizHauptstadt.html">Hauptstädte erraten</a>
+		<a href="quizFlagge.html">Land erraten, aus Flagge</a>
+        <a href="hangman.html">Hangman</a>
+    </nav>
+    <main>
+        <h2>Herzlich Willkommen User.</h2>
+
+        <div class="container">
+            <h1>Pokemon-Quiz</h1>
+            <img id="pokemon-image" src="" alt="Pokemon">
+            <div id="answer-buttons" class="btn-container"></div>
+            <button id="next-button" class="btn hide">Nächste Frage</button>
+        </div>
+    </main>
+    <script src="js/scriptQuizPokemon.js"></script>
+</body>
+</html>
