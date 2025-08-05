@@ -1,0 +1,18 @@
+{
+    "pageTitle": "Meldungen aus dem Alltag eines Programmierers",
+    "languageLabel": "Sprache auswählen:",
+    "homeLink": "Home",
+    "diceLink": "Würfelseite",
+    "randomLink": "Zufallszahlseite",
+    "allQuizzesLink": "Alle Quizze",
+    "quizCapitalLink": "Hauptstädte erraten",
+    "quizFlagLink": "Land erraten, aus Flagge",
+    "hangmanLink": "Hangman",
+    "welcomeMessage": "Herzlich Willkommen User.",
+    "description": "Hier können Sie sich mit Zufallszahlen sowie Standard-Würfeln austoben.",
+    "toDicePage": "Würfelmenü",
+    "toRandomPage": "Zur Zufallszahlenseite",
+    "diceMenu": "Würfelmenü",
+    "threeDiceLink": "Bestimme die Reihenfolge von 3 (Würfeln)",
+    "dicemenulink": "Würfelmenue"
+}
