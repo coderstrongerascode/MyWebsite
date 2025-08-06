@@ -128,6 +128,7 @@ nextButton.addEventListener('click', () => {
     currentQuestionIndex++;
     if (attemptsLeft  === 0) {
          console.log(attemptsLeft);
+         console.log('\n score: ${score}\n question.length: ${questions.length}')
         alert('Quiz beendet! Deine Punktzahl: ${score}/${questions.length}');
         startGame();
     }
