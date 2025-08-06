@@ -46,6 +46,21 @@ function toggleDiceMenuLink() {
     }
 }
 
+function togglePokemonSubMenu() {
+    var subMenu = document.getElementById("pokemonSubMenu");
+    var arrow = subMenu.previousElementSibling.querySelector('.arrow');
+
+    if (subMenu.style.display === "block") {
+        subMenu.style.display = "none";
+        arrow.classList.remove('down');
+    } else {
+        subMenu.style.display = "block";
+        arrow.classList.add('down');
+    }
+}
+
+
+
 // Funktion zum Ein- und Ausklappen des Quiz-Menüs
 function toggleQuizMenu() {
     var quizMenu = document.getElementById("quizMenu");
