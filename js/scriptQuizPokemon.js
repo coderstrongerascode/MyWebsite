@@ -138,7 +138,7 @@ nextButton.addEventListener('click', () => {
    
     else {
         console.log('score: ${score}\n question.length: ${questions.length}')
-        alert('Quiz beendet! Deine Punktzahl: ${score}/${questions.length}');
+        //alert('Quiz beendet! Deine Punktzahl: ${score}/${questions.length}');
         startGame(); // Startet das Quiz erneut
     }
 });
